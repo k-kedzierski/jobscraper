@@ -1,5 +1,6 @@
 import json
 import logging
+from pathlib import Path
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -60,25 +61,36 @@ class BaseSite(abc.ABC):
 
     def run(self, n_offers: Optional[int] = None) -> None:
         logger.info("Starting scraper.")
-        self.offers: List[str] = self.get_offers()
-        logger.info(f"Found {len(self.offers)} offers.")
+        offers = self.get_offers()
 
-        offers = self.offers if not n_offers else self.offers[:n_offers]
+        self.offers: List[str] = offers if not n_offers else offers[:n_offers]
+        logger.info(f"Found {len(self.offers)} offers.")
 
         self.scraped_offers = []
 
-        for offer in offers:
+        for offer, i in zip(self.offers, range(len(self.offers))):
             try:
                 scraped_data = self.scrape_offer(driver=self.drivers_pool[0], url=offer)
-                logger.info(scraped_data)
+                logger.info(f"Offer {i+1}/{len(self.offers)} :: {scraped_data}")
                 self.scraped_offers.append(scraped_data)
             except Exception as e:
                 logger.error(f"Error occurred for url='{offer}': {e}")
 
-    def save(self, file_path: str) -> None:
+    def save(self, output_dir: str) -> None:
         if self.scraped_offers:
+            file_path = Path(output_dir) / f"data_{self.site}.json"
+
+            if file_path.exists():
+                # Keep adding 1 to suffix until file does not exist
+                suffix = 1
+                while file_path.exists():
+                    file_path = Path(output_dir) / f"data_{self.site}_{suffix}.json"
+                    suffix += 1
+            
             with open(file_path, "w") as file:
                 json.dump(self.scraped_offers, file, indent=4)
+
+            logger.info(f"Saved scraped data to '{file_path}'.")
 
     @property
     @abc.abstractmethod

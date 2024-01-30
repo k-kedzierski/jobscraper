@@ -29,10 +29,10 @@ def main(args: argparse.Namespace) -> None:
     scraper = Site(keyword=args.keyword)
 
     # Run scraper
-    scraper.run()
+    scraper.run(n_offers=args.n)
 
     # Save scraped data
-    scraper.save(file_path=args.output + "/data.json")
+    scraper.save(output_dir=args.output)
 
 
 if __name__ == "__main__":
@@ -59,6 +59,13 @@ if __name__ == "__main__":
         nargs="?",
         help="Site implementation to use for scraping.",
         required=True,
+    )
+
+    parser.add_argument(
+        "-n",
+        type=int,
+        nargs="?",
+        help="Number of offers to scrape. Optional, defaults to unbouded.",
     )
 
     parser.add_argument(

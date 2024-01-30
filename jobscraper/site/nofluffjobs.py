@@ -52,6 +52,11 @@ class NoFluffJobs(BaseSite):
             "//div[contains(@class, 'posting-details-description')]//h1[contains(@class, 'font-weight-bold')]",
         ).text
 
+        # Company
+        company = driver.find_element(
+            By.XPATH, '//a[@id="postingCompanyUrl"]'
+        ).text
+
         # Seniority level
         seniority = driver.find_element(
             By.XPATH, "//li[contains(@id, 'posting-seniority')]//span"
@@ -80,13 +85,17 @@ class NoFluffJobs(BaseSite):
         categories = [element.text for element in a_elements]
 
         # Skills
-        span_elements = driver.find_elements(By.XPATH, "//div[@id='posting-requirements']//span[contains(@id, 'item-tag')]")
+        span_elements = driver.find_elements(
+            By.XPATH,
+            "//div[@id='posting-requirements']//span[contains(@id, 'item-tag')]",
+        )
 
         skills = [element.text for element in span_elements]
 
         return {
             "url": url,
             "title": title,
+            "company": company,
             "seniority": seniority,
             "categories:": categories,
             "skills": skills,
