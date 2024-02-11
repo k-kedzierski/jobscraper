@@ -1,3 +1,4 @@
+from datetime import datetime
 import json
 import logging
 from pathlib import Path
@@ -86,9 +87,16 @@ class BaseSite(abc.ABC):
                 while file_path.exists():
                     file_path = Path(output_dir) / f"data_{self.site}_{suffix}.json"
                     suffix += 1
-            
+
             with open(file_path, "w") as file:
-                json.dump(self.scraped_offers, file, indent=4)
+                data_dump = {
+                    "site": self.site,
+                    "keyword": self.keyword,
+                    "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                    "data": self.scraped_offers,
+                }
+
+                json.dump(data_dump, file, indent=4)
 
             logger.info(f"Saved scraped data to '{file_path}'.")
 

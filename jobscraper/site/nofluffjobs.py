@@ -27,12 +27,13 @@ class NoFluffJobs(BaseSite):
     def get_offers(self) -> List[str]:
         driver = self.drivers_pool[0]
 
+        # TODO: Pagination limit here is arbitrary. Move to config file.
         for i in range(100):
             driver.get(url=self._get_search_url(page=i))
 
             offers = driver.find_elements(by=By.CLASS_NAME, value="posting-list-item")
             try:
-                WebDriverWait(driver=driver, timeout=3.0).until(
+                WebDriverWait(driver=driver, timeout=5.0).until(
                     method=EC.presence_of_element_located(
                         (By.XPATH, "//button[contains(text(), 'more offers')]")
                     )
