@@ -1,3 +1,4 @@
+import logging
 import urllib.parse
 from typing import Any, Dict, List
 from jobscraper.site.base import BaseSite
@@ -7,6 +8,7 @@ from selenium.common.exceptions import TimeoutException
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
+logger = logging.getLogger(__name__)
 
 class NoFluffJobs(BaseSite):
     @property
@@ -27,20 +29,32 @@ class NoFluffJobs(BaseSite):
     def get_offers(self) -> List[str]:
         driver = self.drivers_pool[0]
 
+        driver.get(url=self._get_search_url(page=1))
+
+        # Reject cookies
+        WebDriverWait(driver=driver, timeout=5.0).until(
+            method=EC.presence_of_element_located(
+                (By.ID, "onetrust-reject-all-handler")
+            )
+        )
+        driver.find_element(by=By.ID, value="onetrust-reject-all-handler").click()
+
         # TODO: Pagination limit here is arbitrary. Move to config file.
         for i in range(100):
-            driver.get(url=self._get_search_url(page=i))
-
-            offers = driver.find_elements(by=By.CLASS_NAME, value="posting-list-item")
             try:
+                # Wait for the "more offers" button to appear
                 WebDriverWait(driver=driver, timeout=5.0).until(
                     method=EC.presence_of_element_located(
                         (By.XPATH, "//button[contains(text(), 'more offers')]")
                     )
                 )
+                # Press the "more offers" button
+                driver.find_element(
+                    by=By.XPATH, value="//button[contains(text(), 'more offers')]"
+                ).click()
             except TimeoutException:
-                break
-            finally:
+                # If the button does not appear, break the loop
+                offers = driver.find_elements(by=By.CLASS_NAME, value="posting-list-item")
                 return [offer.get_attribute(name="href") for offer in offers]
 
     def scrape_offer(self, driver: webdriver.Chrome, url: str) -> Dict[str, Any]:
