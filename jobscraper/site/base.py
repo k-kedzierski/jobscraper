@@ -2,6 +2,7 @@ from datetime import datetime
 import json
 import logging
 from pathlib import Path
+import uuid
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.chrome.service import Service
@@ -93,6 +94,7 @@ class BaseSite(abc.ABC):
                     "site": self.site,
                     "keyword": self.keyword,
                     "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                    "uuid": str(uuid.uuid4()),
                     "data": self.scraped_offers,
                 }
 
