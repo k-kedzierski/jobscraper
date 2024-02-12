@@ -71,7 +71,6 @@ class PracujPlJobs(BaseSite):
         driver.implicitly_wait(1.0)
 
         # Title
-        
         title = driver.find_element(
             By.XPATH,
             "//*[@data-test='text-positionName']",
