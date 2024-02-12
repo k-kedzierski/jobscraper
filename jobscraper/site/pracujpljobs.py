@@ -6,7 +6,7 @@ from jobscraper.site.base import BaseSite
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
-from selenium.common.exceptions import TimeoutException
+from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from selenium import webdriver
 
 
@@ -90,26 +90,46 @@ class PracujPlJobs(BaseSite):
         ).text
 
         # Salary
-        salary = driver.find_element(
-            By.XPATH, '//*[@data-test="text-earningAmountValueFrom"]'
-        ).text + driver.find_element(
+        salary_min = ""
+        salary_max = ""
+        salary_unit = ""
+
+        
+        try:
+            salary_min = driver.find_element(
+                By.XPATH, '//*[@data-test="text-earningAmountValueFrom"]'
+            ).text 
+        except NoSuchElementException:
+            pass
+        
+        salary_max = driver.find_element(
             By.XPATH, '//*[@data-test="text-earningAmountValueTo"]'
-        ).text + " " + driver.find_element(
+        ).text
+        
+        salary_unit = driver.find_element(
             By.XPATH, '//*[@data-test="text-earningAmountUnit"]'
         ).text
 
+        salary = f"{salary_min}{salary_max} {salary_unit}"
+
         # Category
-        categories = driver.find_element(
-            By.XPATH, '//li[@data-test="it-specializations"]//span[2]'
-        ).text
+        try:
+            categories = driver.find_element(
+                By.XPATH, '//li[@data-test="it-specializations"]//span[2]'
+            ).text
+        except NoSuchElementException:
+            categories = None
 
         # Skills
-        span_elements = driver.find_elements(
-            By.XPATH,
-            '//p[@data-test="text-technology-name"]',
-        )
+        try:
+            span_elements = driver.find_elements(
+                By.XPATH,
+                '//p[@data-test="text-technology-name"]',
+            )
 
-        skills = [element.text for element in span_elements]
+            skills = [element.text for element in span_elements]
+        except NoSuchElementException:
+            skills = None
 
         return {
             "url": url,
