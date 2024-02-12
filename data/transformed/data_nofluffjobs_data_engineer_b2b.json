@@ -1,0 +1,767 @@
+{
+    "site": "nofluffjobs",
+    "keyword": "data engineer",
+    "timestamp": "2024-02-12 01:18:28",
+    "uuid": "91821c2c-a613-4504-976b-603838e6bdd0",
+    "data": [
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-aws-getindata-part-of-xebia-remote",
+            "title": "Senior Data Engineer (AWS)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "AWS"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Redshift",
+                "AWS",
+                "Airflow",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "ETL",
+                "ELT"
+            ],
+            "min_salary": 26880,
+            "max_salary": 33600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-gcp-getindata-part-of-xebia-remote",
+            "title": "Senior Data Engineer (GCP)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "GCP"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "BigQuery",
+                "Spark",
+                "GCP",
+                "Airflow",
+                "Kubernetes",
+                "Docker",
+                "Git"
+            ],
+            "min_salary": 26880,
+            "max_salary": 33600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-azure-getindata-part-of-xebia-remote-2",
+            "title": "Senior Data Engineer (Azure)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Databricks",
+                "Kafka",
+                "Git",
+                "Airflow",
+                "Docker",
+                "Terraform",
+                "CI/CD",
+                "Microsoft Azure"
+            ],
+            "min_salary": 26880,
+            "max_salary": 33600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-proxet-remote-3",
+            "title": "Data Engineer",
+            "company": "Proxet",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Data engineering",
+                "Data warehouse",
+                "ETL",
+                "Relational database",
+                "Storage",
+                "Monitoring tools",
+                "CI/CD",
+                "Communication skills",
+                "Spark",
+                "Databricks",
+                "Python",
+                "Docker",
+                "Kubernetes",
+                "AWS Lambda",
+                "SQL Server",
+                "Power BI",
+                "PostgreSQL",
+                "MySQL"
+            ],
+            "min_salary": 20048,
+            "max_salary": 34081
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-mid-regular-sunscrapers-remote",
+            "title": "Data Engineer (Mid / Regular)",
+            "company": "Sunscrapers",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "PostgreSQL",
+                "Dagster",
+                "Data pipelines",
+                "DBT",
+                "Snowflake",
+                "AWS",
+                "Prisma",
+                "Sentry",
+                "Data modeling",
+                "Testing (DBT)"
+            ],
+            "min_salary": 22000,
+            "max_salary": 25000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/financial-data-engineer-softkraft-remote",
+            "title": "Financial Data Engineer",
+            "company": "SoftKraft Sp z o.o.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Git"
+            ],
+            "min_salary": 15960,
+            "max_salary": 25870
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-sollers-consulting-wroclaw-1",
+            "title": "Data Engineer",
+            "company": "Sollers Consulting",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Kafka"
+            ],
+            "skills": [
+                "Spark",
+                "Kafka",
+                "SQL",
+                "NoSQL",
+                "ETL",
+                "Python",
+                "Java",
+                "Scala",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Snowflake",
+                "Databricks",
+                "Airflow"
+            ],
+            "min_salary": 17200,
+            "max_salary": 21000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-allstarsit-remote",
+            "title": "Data Engineer",
+            "company": "ALLSTARSIT",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "PySpark",
+                "SQL",
+                "AWS",
+                "ETL",
+                "Relational database",
+                "Data modeling",
+                "Communication skills",
+                "Databricks"
+            ],
+            "min_salary": 28067,
+            "max_salary": 30072
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-knowit-remote-1",
+            "title": "Data Engineer",
+            "company": "Knowit",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "SQL",
+                "Data warehouse",
+                "Power BI",
+                "Snowflake",
+                "Azure"
+            ],
+            "min_salary": 16800,
+            "max_salary": 23520
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-seb-skandinaviska-enskilda-banken-warszawa-3",
+            "title": "Data Engineer",
+            "company": "SEB (Skandinaviska Enskilda Banken)",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Spark"
+            ],
+            "skills": [
+                "CI/CD",
+                "Spark",
+                "Container",
+                "GCP",
+                "Scala",
+                "Java",
+                "Python",
+                "Spark",
+                "Kubernetes",
+                "Kafka",
+                "OpenShift",
+                "GitHub Actions",
+                "Cloud",
+                "Airflow"
+            ],
+            "min_salary": 28000,
+            "max_salary": 33000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-sunscrapers-remote-1",
+            "title": "Data Engineer",
+            "company": "Sunscrapers",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Pandas",
+                "Sequel",
+                "dbt",
+                "ETL",
+                "Snowflake",
+                "Docker",
+                "Azure",
+                "Terraform"
+            ],
+            "min_salary": 20000,
+            "max_salary": 24000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-mindbox-krakow-3",
+            "title": "Data Engineer",
+            "company": "Mindbox S.A.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Data modeling",
+                "Data engineering",
+                "Data base",
+                "Data visualization",
+                "Data pipelines",
+                "SQL",
+                "Jira",
+                "Confluence",
+                "BigQuery",
+                "Hadoop",
+                "Python",
+                "Java",
+                "Spring Boot",
+                "Hive",
+                "Elasticsearch",
+                "Yarn",
+                "Scala"
+            ],
+            "min_salary": 27300,
+            "max_salary": 35700
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-iii-forecasting-tesco-technology-krakow-2",
+            "title": "Data Engineer III - Forecasting",
+            "company": "Tesco Technology",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Hadoop",
+                "Spark",
+                "PySpark",
+                "Python",
+                "pandas",
+                "Design Patterns"
+            ],
+            "min_salary": 26000,
+            "max_salary": 40000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-spark-getindata-part-of-xebia-remote",
+            "title": "Data Engineer (Spark)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Spark"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Spark",
+                "PySpark",
+                "Databricks",
+                "VCS"
+            ],
+            "min_salary": 18480,
+            "max_salary": 26880
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-snowflake-getindata-part-of-xebia-remote-2",
+            "title": "Data Engineer (Snowflake)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Snowflake"
+            ],
+            "skills": [
+                "Snowflake",
+                "Python",
+                "SQL",
+                "dbt",
+                "Airflow",
+                "Dagster",
+                "Prefect"
+            ],
+            "min_salary": 26880,
+            "max_salary": 33600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-hubquest-remote-5",
+            "title": "Data Engineer",
+            "company": "hubQuest",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "ETL",
+                "Data engineering",
+                "pandas",
+                "NumPy",
+                "SQLAlchemy",
+                "FastAPI",
+                "SQL Server",
+                "Snowflake",
+                "Kubernetes",
+                "GitLab",
+                "Argo CD",
+                "Grafana",
+                "Prometheus",
+                "Agile",
+                "AWS",
+                "AWS SageMaker",
+                "Athena",
+                "Glue",
+                "AWS S3",
+                "Step Functions"
+            ],
+            "min_salary": 27000,
+            "max_salary": 37000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-gog-warsaw-1",
+            "title": "Senior Data Engineer",
+            "company": "GOG",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Machine Learing",
+                "API",
+                "BigQuery",
+                "Data structures",
+                "Design Patterns",
+                "Docker",
+                "Kubernetes",
+                "Golang",
+                "Microservice architecture",
+                "Performance tuning",
+                "Web applications"
+            ],
+            "min_salary": 20000,
+            "max_salary": 30000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-with-python-objectivity-part-of-accenture-remote-2",
+            "title": "Senior Data Engineer with Python",
+            "company": "Objectivity - part of Accenture",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Databricks"
+            ],
+            "skills": [
+                "Python",
+                "PySpark",
+                "Databricks",
+                "Lakehouse",
+                "NoSQL",
+                "Data modelling",
+                "Azure",
+                "Snowflake",
+                "Microsoft Fabric",
+                "BS"
+            ],
+            "min_salary": 21840,
+            "max_salary": 30240
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-platform-engineer-consultant-elitmind-remote-2",
+            "title": "Data Platform Engineer/Consultant",
+            "company": "Elitmind",
+            "seniority": "Mid",
+            "categories:": [
+                "Business Intelligence"
+            ],
+            "skills": [
+                "English",
+                "SQL",
+                "ETL",
+                "Azure",
+                "Databricks",
+                "Snowflake",
+                "Python",
+                "Data Modelling skills"
+            ],
+            "min_salary": 13944,
+            "max_salary": 19992
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-adaptiq-remote",
+            "title": "Senior Data Engineer",
+            "company": "Adaptiq",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Spark",
+                "Kafka",
+                "Airflow",
+                "Scala",
+                "Java",
+                "Go",
+                "Databricks",
+                "Snowflake",
+                "ETL/ELT processes"
+            ],
+            "min_salary": 26062,
+            "max_salary": 28067
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-hubquest-remote-4",
+            "title": "Senior Data Engineer",
+            "company": "hubQuest",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "ETL",
+                "Data engineering",
+                "pandas",
+                "NumPy",
+                "SQLAlchemy",
+                "FastAPI",
+                "SQL Server",
+                "Snowflake",
+                "Kubernetes",
+                "GitLab",
+                "Argo CD",
+                "Grafana",
+                "Prometheus",
+                "Agile",
+                "AWS",
+                "AWS SageMaker",
+                "Athena",
+                "Glue",
+                "AWS S3",
+                "Step Functions"
+            ],
+            "min_salary": 30000,
+            "max_salary": 40000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-avenga-remote-15",
+            "title": "Senior Data Engineer",
+            "company": "AVENGA",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "AWS",
+                "Airflow"
+            ],
+            "min_salary": 25200,
+            "max_salary": 28560
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-and-ai-engineer-getindata-part-of-xebia-remote",
+            "title": "Senior Data and AI Engineer",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "AI"
+            ],
+            "skills": [
+                "Python",
+                "Databricks",
+                "Airflow",
+                "BigQuery",
+                "Spark",
+                "NLP",
+                "GCP"
+            ],
+            "min_salary": 25200,
+            "max_salary": 33600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/azure-data-engineer-remote-full-part-time-10-senses",
+            "title": "Azure Data Engineer (Remote, full / part-time)",
+            "company": "10 Senses",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "Azure Synapse",
+                "Azure Synapse Analytics",
+                "Azure Data Lake Storage",
+                "Azure Databricks",
+                "Azure Pipelines",
+                "SQL",
+                "Azure Data Factory",
+                "Azure Kubernetes Service",
+                "Docker",
+                "Power BI",
+                "Python",
+                "Scala",
+                "Airflow",
+                "Google cloud platform",
+                "AWS",
+                "Bash",
+                "Machine learning",
+                "AI"
+            ],
+            "min_salary": 25200,
+            "max_salary": 31920
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-photon-energy-group-remote-1",
+            "title": "Data Engineer",
+            "company": "Photon Energy Group",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Kafka",
+                "Data pipelines",
+                "Data engineering",
+                "Python",
+                "AWS",
+                "NiFi",
+                "Argo",
+                "API",
+                "Snowflake",
+                "Spark",
+                "Analysis",
+                "Azure Data Factory",
+                "Airflow",
+                "Azure",
+                "BigQuery",
+                "Snowpark"
+            ],
+            "min_salary": 14000,
+            "max_salary": 20000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-architect-connectis--remote-2",
+            "title": "Data Architect",
+            "company": "Connectis_",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Data engineering"
+            ],
+            "min_salary": 21000,
+            "max_salary": 27000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-architect-objectivity-part-of-accenture-remote",
+            "title": "Data Architect",
+            "company": "Objectivity - part of Accenture",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Azure"
+            ],
+            "skills": [
+                "Azure Data Solutions",
+                "Azure Services",
+                "Data Solutions",
+                "Business Inteligence",
+                "Analytics Solutions",
+                "Data Warehouses",
+                "Data Integration",
+                "Machine Learning",
+                "Azure",
+                "snowflake",
+                "Spark",
+                "AI",
+                "Data warehouses",
+                "Big Data",
+                "SQL",
+                "Python",
+                "Data warehouse",
+                "Data modelling",
+                "Azure Data",
+                "GCP",
+                "Databricks",
+                "Kafka",
+                "Google Cloud"
+            ],
+            "min_salary": 28560,
+            "max_salary": 36960
+        },
+        {
+            "url": "https://nofluffjobs.com/job/cloud-data-architect-transition-technologies-psc-remote",
+            "title": "Cloud Data Architect",
+            "company": "Transition Technologies PSC S.A.",
+            "seniority": "Senior",
+            "categories:": [
+                "Architecture",
+                "AWS"
+            ],
+            "skills": [
+                "CI",
+                "CD",
+                "AWS",
+                "Cloud platform",
+                "Data warehouses",
+                "Data Lake",
+                "MDM"
+            ],
+            "min_salary": 33000,
+            "max_salary": 42000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-streming-devops-expert-squareone-remote",
+            "title": "Data Streming DevOps Expert",
+            "company": "SquareOne",
+            "seniority": "Senior",
+            "categories:": [
+                "DevOps"
+            ],
+            "skills": [
+                "DevOps",
+                "Linux",
+                "Kafka",
+                "ETL",
+                "Airflow",
+                "Cloud",
+                "MQTT",
+                "Java",
+                "Scala",
+                "NoSQL",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "Bamboo",
+                "Jenkins",
+                "Terraform"
+            ],
+            "min_salary": 25200,
+            "max_salary": 28560
+        },
+        {
+            "url": "https://nofluffjobs.com/job/big-data-architect-addepto-remote",
+            "title": "Big Data Architect",
+            "company": "Addepto",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Hadoop",
+                "Spark",
+                "NiFi",
+                "Kafka",
+                "AWS",
+                "Python",
+                "Java",
+                "Scala",
+                "SQL",
+                "Big Data",
+                "Data Integration",
+                "ETL tools",
+                "Docker",
+                "Data management",
+                "NoSQL",
+                "Git",
+                "Kubernetes",
+                "CI/CD"
+            ],
+            "min_salary": 25000,
+            "max_salary": 37800
+        }
+    ]
+}
