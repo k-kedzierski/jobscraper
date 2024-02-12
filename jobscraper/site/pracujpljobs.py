@@ -1,3 +1,4 @@
+import logging
 from typing import Any, Dict, List
 
 import urllib.parse
@@ -6,8 +7,10 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.common.exceptions import TimeoutException
-from selenium.webdriver import ActionChains
 from selenium import webdriver
+
+
+logger = logging.getLogger(__name__)
 
 
 class PracujPlJobs(BaseSite):
@@ -31,7 +34,7 @@ class PracujPlJobs(BaseSite):
         links = []
 
         for i in range(1, 100):
-            print(f"Getting page {i}")
+            logger.info(f"Getting page {i}")
             driver.get(url=self._get_search_url(page=i))
             driver.implicitly_wait(1.0)
 
