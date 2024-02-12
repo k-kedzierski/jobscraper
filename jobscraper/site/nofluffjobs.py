@@ -32,12 +32,15 @@ class NoFluffJobs(BaseSite):
         driver.get(url=self._get_search_url(page=1))
 
         # Reject cookies
-        WebDriverWait(driver=driver, timeout=5.0).until(
-            method=EC.presence_of_element_located(
-                (By.ID, "onetrust-reject-all-handler")
+        try:
+            WebDriverWait(driver=driver, timeout=5.0).until(
+                method=EC.presence_of_element_located(
+                    (By.ID, "onetrust-reject-all-handler")
+                )
             )
-        )
-        driver.find_element(by=By.ID, value="onetrust-reject-all-handler").click()
+            driver.find_element(by=By.ID, value="onetrust-reject-all-handler").click()
+        except TimeoutException:
+            pass
 
         # TODO: Pagination limit here is arbitrary. Move to config file.
         for i in range(100):

@@ -237,8 +237,9 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python,macos,linux,data
 
-data/*
+data/raw*
 !data/.gitkeep
+!data/raw/.gitkeep
 
 driver/*
 !driver/.gitkeep

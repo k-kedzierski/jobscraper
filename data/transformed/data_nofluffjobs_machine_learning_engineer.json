@@ -1,0 +1,967 @@
+{
+    "site": "nofluffjobs",
+    "keyword": "machine learning engineer",
+    "timestamp": "2024-02-12 00:23:31",
+    "uuid": "9dc862e3-babd-4342-8b29-33232163ef32",
+    "data": [
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-machine-learning-research-allegro-warszawa",
+            "title": "Senior Data Engineer - Machine Learning Research",
+            "company": "Allegro",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Degree",
+                "Python",
+                "Git",
+                "DevOps",
+                "SQL",
+                "GCP",
+                "Airflow",
+                "AI",
+                "NoSQL"
+            ],
+            "min_salary": 16100,
+            "max_salary": 23200
+        },
+        {
+            "url": "https://nofluffjobs.com/job/machine-learning-engineer-rtb-house-remote-4",
+            "title": "Machine Learning Engineer",
+            "company": "RTB House",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Design thinking",
+                "Linux",
+                "Machine learning",
+                "Spark",
+                "TensorFlow",
+                "Hadoop",
+                "Kafka",
+                "Java",
+                "Big data",
+                "PyTorch",
+                "Google cloud platform",
+                "BigQuery",
+                "pandas",
+                "NumPy",
+                "C++",
+                "Docker",
+                "NoSQL",
+                "Kubernetes",
+                "JavaScript",
+                "WebAssembly",
+                "Scala"
+            ],
+            "min_salary": 30000,
+            "max_salary": 47000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/mid-machine-learning-engineer-hexagon-intergraph-polska-lodz",
+            "title": "Mid Machine Learning Engineer",
+            "company": "HEXAGON | Intergraph Polska Sp. z o.o.",
+            "seniority": "Mid",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "C++",
+                "Python",
+                "Machine learning",
+                "BSc",
+                "MSc",
+                "PhD",
+                "CI/CD",
+                "Distillation",
+                "Quantization"
+            ],
+            "min_salary": 13000,
+            "max_salary": 17000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-machine-learning-engineer-hexagon-intergraph-polska-lodz",
+            "title": "Senior Machine Learning Engineer",
+            "company": "HEXAGON | Intergraph Polska Sp. z o.o.",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "C++",
+                "Python",
+                "Machine learning",
+                "BSc",
+                "MSc",
+                "PhD",
+                "CI/CD",
+                "Distillation",
+                "Quantization"
+            ],
+            "min_salary": 18000,
+            "max_salary": 28000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/machine-learning-engineer-numlabs-remote-1",
+            "title": "Machine Learning Engineer",
+            "company": "Numlabs",
+            "seniority": "Mid",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Problem solving",
+                "Team player",
+                "Machine Learning",
+                "Pandas",
+                "Scikit-learn",
+                "Proactivity",
+                "Critical thinking",
+                "linux",
+                "Git",
+                "Linux",
+                "OpenCV",
+                "Cloud",
+                "TensorFlow",
+                "Keras",
+                "pyTroch",
+                "Flask",
+                "FastAPI",
+                "docker",
+                "AWS",
+                "Docker"
+            ],
+            "min_salary": 8000,
+            "max_salary": 14500
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-machine-learning-engineer-numlabs-remote",
+            "title": "Senior Machine Learning Engineer",
+            "company": "Numlabs",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "Problem solving",
+                "Team player",
+                "Scikit-learn",
+                "Proactivity",
+                "linux",
+                "AI",
+                "NLP",
+                "Git",
+                "OpenCV",
+                "Cloud",
+                "TensorFlow",
+                "Keras",
+                "Flask",
+                "FastAPI",
+                "AWS",
+                "Hadoop",
+                "Pandas",
+                "Critical thinking",
+                "docker",
+                "Azure",
+                "GCP",
+                "Java"
+            ],
+            "min_salary": 14000,
+            "max_salary": 18500
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-mlops-engineer-avenga-remote-1",
+            "title": "Senior MLOps Engineer",
+            "company": "AVENGA",
+            "seniority": "Senior",
+            "categories:": [
+                "DevOps"
+            ],
+            "skills": [
+                "Kubernetes",
+                "Data science",
+                "MLOps",
+                "Python",
+                "Bash",
+                "AWS"
+            ],
+            "min_salary": 27720,
+            "max_salary": 31080
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-product-catalogue-ml-allegro-warszawa",
+            "title": "Data Engineer - Product Catalogue ML",
+            "company": "Allegro",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Python",
+                "Big Data",
+                "Spark",
+                "DevOps",
+                "SQL",
+                "ML",
+                "AI",
+                "Communication skills",
+                "MLOps",
+                "BigQuery",
+                "Dataproc",
+                "Airflow"
+            ],
+            "min_salary": 12300,
+            "max_salary": 17600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/mlops-engineer-squareone-remote",
+            "title": "MLOps Engineer",
+            "company": "SquareOne",
+            "seniority": "Senior",
+            "categories:": [
+                "Backend",
+                "PHP"
+            ],
+            "skills": [
+                "MLOps",
+                "Machine Learning",
+                "PySpark",
+                "Azure",
+                "Continuous integration",
+                "Continuous deployment",
+                "Python",
+                "MS SQL",
+                "Relational database",
+                "Azure Pipelines",
+                "Azure Databricks",
+                "PHP"
+            ],
+            "min_salary": 23520,
+            "max_salary": 30240
+        },
+        {
+            "url": "https://nofluffjobs.com/job/mlops-engineer-aws-getindata-part-of-xebia-remote",
+            "title": "MLOps Engineer (AWS)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "AWS"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Databricks",
+                "AWS",
+                "Scala"
+            ],
+            "min_salary": 26880,
+            "max_salary": 33600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/mlops-engineer-brainly-remote",
+            "title": "MLOps Engineer",
+            "company": "Brainly Sp. z o.o.",
+            "seniority": "Mid",
+            "categories:": [
+                "AI",
+                "AWS"
+            ],
+            "skills": [
+                "AWS",
+                "Machine learning",
+                "Microservices",
+                "Python",
+                "CI/CD",
+                "Terraform"
+            ],
+            "min_salary": 17500,
+            "max_salary": 30000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/mlops-engineer-spyrosoft-remote",
+            "title": "MLOps Engineer",
+            "company": "Spyrosoft",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "MLOps",
+                "Machine Learning",
+                "PySpark",
+                "Azure",
+                "DevOps",
+                "Continuous integration",
+                "Continuous deployment",
+                "Python",
+                "MS SQL",
+                "Relational database"
+            ],
+            "min_salary": 13500,
+            "max_salary": 29400
+        },
+        {
+            "url": "https://nofluffjobs.com/job/mid-mlops-engineer-hexagon-intergraph-polska-lodz",
+            "title": "Mid MLOps Engineer",
+            "company": "HEXAGON | Intergraph Polska Sp. z o.o.",
+            "seniority": "Mid",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "MLOps",
+                "GitHub",
+                "Azure",
+                "MLflow",
+                "Docker",
+                "AWS",
+                "CI/CD",
+                "Python"
+            ],
+            "min_salary": 13000,
+            "max_salary": 17000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-mlops-engineer-hexagon-intergraph-polska-lodz",
+            "title": "Senior MLOps Engineer",
+            "company": "HEXAGON | Intergraph Polska Sp. z o.o.",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "MLOps",
+                "GitHub",
+                "Azure",
+                "MLflow",
+                "Docker",
+                "AWS",
+                "CI/CD",
+                "Python"
+            ],
+            "min_salary": 18000,
+            "max_salary": 28000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/mlops-inzynier-uczenia-maszynowego-centralny-osrodek-informatyki-remote",
+            "title": "MLOps In\u017cynier Uczenia Maszynowego",
+            "company": "Centralny O\u015brodek Informatyki",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "AI",
+                "Machine learning",
+                "Clean Code",
+                "Docker",
+                "Flask",
+                "FastAPI",
+                "Terraform",
+                "Kubernetes",
+                "MLOps",
+                "Azure"
+            ],
+            "min_salary": 14000,
+            "max_salary": 28000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-mlops-engineer-devire-remote",
+            "title": "Senior MLOps Engineer",
+            "company": "Devire",
+            "seniority": "Senior",
+            "categories:": [
+                "AI"
+            ],
+            "skills": [
+                "MLOps",
+                "Degree",
+                "AI",
+                "Kubernetes",
+                "Docker",
+                "Data science",
+                "Kubeflow",
+                "AWS SageMaker",
+                "Python",
+                "Bash",
+                "Unix",
+                "CI/CD",
+                "AWS"
+            ],
+            "min_salary": 26880,
+            "max_salary": 30240
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-ml-security-engineer-snowflake-warsaw-3",
+            "title": "Senior ML Security Engineer",
+            "company": "Snowflake",
+            "seniority": "Senior",
+            "categories:": [
+                "AI"
+            ],
+            "skills": [
+                "SQL",
+                "Machine learning",
+                "Security",
+                "GPU",
+                "Data science",
+                "SDLC",
+                "Open source"
+            ],
+            "min_salary": 30000,
+            "max_salary": 60000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/mlops-engineer-brainly-remote-1",
+            "title": "MLOps Engineer",
+            "company": "Brainly Sp. z o.o.",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "AWS"
+            ],
+            "skills": [
+                "AWS",
+                "Machine learning",
+                "Microservices",
+                "Python",
+                "CI/CD",
+                "Terraform"
+            ],
+            "min_salary": 26000,
+            "max_salary": 35000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/mlops-engineer-softserve-remote",
+            "title": "MLOps Engineer",
+            "company": "SoftServe",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Design Patterns",
+                "CI/CD",
+                "Kubeflow",
+                "MLflow",
+                "Kubernetes",
+                "Hadoop",
+                "Apache Spark",
+                "Airflow"
+            ],
+            "min_salary": 21000,
+            "max_salary": 27000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/ml-python-nlp-engineer-sfox-remote",
+            "title": "ML (Python + NLP) Engineer",
+            "company": "SFox",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "AI",
+                "R&D",
+                "Accounting",
+                "React",
+                "Microservices",
+                "API",
+                "Machine Learning",
+                "PyTorch",
+                "NLP",
+                "Golang",
+                "Grafana",
+                "SQL"
+            ],
+            "min_salary": 12950,
+            "max_salary": 21583
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-big-data-engineer-scala-python-data-ai-allegro-warszawa",
+            "title": "Senior Big Data Engineer (Scala/Python) - Data&AI",
+            "company": "Allegro",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Scala",
+                "Python",
+                "Java",
+                "Spark",
+                "GCP",
+                "Azure",
+                "AWS",
+                "Clean Code",
+                "TDD",
+                "CI/CD",
+                "Unix",
+                "Linux"
+            ],
+            "min_salary": 16100,
+            "max_salary": 23200
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-ai-engineer-generativeai-lingaro-remote",
+            "title": "Senior AI Engineer (GenerativeAI)",
+            "company": "Lingaro",
+            "seniority": "Expert",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "AI",
+                "MLOps",
+                "GCP",
+                "Azure",
+                "DevOps",
+                "GenAI",
+                "Databricks",
+                "Docker",
+                "Kubernetes"
+            ],
+            "min_salary": 25200,
+            "max_salary": 33600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/ai-engineer-with-python-ework-group-warsaw",
+            "title": "AI Engineer with Python",
+            "company": "Ework Group",
+            "seniority": "Mid",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "TensorFlow",
+                "Keras",
+                "PyTorch"
+            ],
+            "min_salary": 23520,
+            "max_salary": 27720
+        },
+        {
+            "url": "https://nofluffjobs.com/job/python-developer-ai-zone-it-wroclaw-2",
+            "title": "Python Developer - AI",
+            "company": "Zone IT Sp. z o.o.",
+            "seniority": "Mid",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "MATLAB",
+                "AI",
+                "MongoDB",
+                "Django",
+                "Cloud",
+                "Java",
+                "Angular"
+            ],
+            "min_salary": 16000,
+            "max_salary": 28000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/python-engineer-with-computer-vision-ai-adaptiq-remote",
+            "title": "Python Engineer with Computer Vision/AI",
+            "company": "Adaptiq",
+            "seniority": "Senior",
+            "categories:": [
+                "Backend",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "MongoDB",
+                "AWS S3",
+                "serverless architecture",
+                "CI/CD",
+                "Jenkins",
+                "Docker",
+                "Kubernetes",
+                "SQL",
+                "NoSQL",
+                "Computer vision",
+                "Machine learning",
+                "Deep learning",
+                "Django",
+                "Celery",
+                "AWS"
+            ],
+            "min_salary": 25260,
+            "max_salary": 26062
+        },
+        {
+            "url": "https://nofluffjobs.com/job/ai-devops-engineer-lingaro-remote",
+            "title": "AI DevOps Engineer",
+            "company": "Lingaro",
+            "seniority": "Mid",
+            "categories:": [
+                "AI"
+            ],
+            "skills": [
+                "DevOps",
+                "Linux",
+                "Windows",
+                "Cloud computing",
+                "IaaS",
+                "PaaS",
+                "SaaS",
+                "Storage",
+                "Azure SQL",
+                "Azure AD",
+                "Kubernetes",
+                "SQL",
+                "Git",
+                "Bash",
+                "PowerShell",
+                "CI/CD",
+                "Python",
+                "Azure",
+                "Big Data",
+                "Spark",
+                "Databricks",
+                "AI",
+                "Platform as a service"
+            ],
+            "min_salary": 15120,
+            "max_salary": 20160
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-and-ai-engineer-getindata-part-of-xebia-remote",
+            "title": "Senior Data and AI Engineer",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "AI"
+            ],
+            "skills": [
+                "Python",
+                "Databricks",
+                "Airflow",
+                "BigQuery",
+                "Spark",
+                "NLP",
+                "GCP"
+            ],
+            "min_salary": 25200,
+            "max_salary": 33600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/ai-engineer-remote-full-part-time-10-senses-warszawa",
+            "title": "AI Engineer (Remote, full / part-time)",
+            "company": "10 Senses",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Azure"
+            ],
+            "skills": [
+                "Azure AI Studio",
+                "LangChain",
+                "Python",
+                "SQL",
+                "Azure",
+                "Azure Synapse Analytics",
+                "Azure Data Factory",
+                "Power BI",
+                "Power Platform"
+            ],
+            "min_salary": 23520,
+            "max_salary": 30240
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-ai-engineer-lingaro-remote-1",
+            "title": "Senior AI Engineer",
+            "company": "Lingaro",
+            "seniority": "Expert",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "AI",
+                "MLflow",
+                "Databricks",
+                "Azure ML",
+                "Azure",
+                "AWS",
+                "GCP"
+            ],
+            "min_salary": 25200,
+            "max_salary": 33600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/ai-engineer-lingaro-remote-2",
+            "title": "AI Engineer",
+            "company": "Lingaro",
+            "seniority": "Mid",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "AI",
+                "Databricks",
+                "Azure ML",
+                "Azure",
+                "Spark",
+                "Java",
+                "MLOps",
+                "Scala"
+            ],
+            "min_salary": 8000,
+            "max_salary": 19320
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-scientist-mid-senior-addepto-remote",
+            "title": "Data Scientist ( Mid / Senior )",
+            "company": "Addepto",
+            "seniority": "Mid",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Deep learning",
+                "Machine learning",
+                "SQL",
+                "NLP",
+                "Computer vision",
+                "Cloud",
+                "Machine Learning",
+                "Git",
+                "Docker",
+                "MLflow",
+                "NoSQL",
+                "CI/CD",
+                "BI",
+                "TensorFlow",
+                "Spark",
+                "Kubernetes",
+                "AWS",
+                "pandas",
+                "scikit-learn",
+                "ETL",
+                "Keras",
+                "PyTorch",
+                "GenAI"
+            ],
+            "min_salary": 13000,
+            "max_salary": 26000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-architect-objectivity-part-of-accenture-remote",
+            "title": "Data Architect",
+            "company": "Objectivity - part of Accenture",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Azure"
+            ],
+            "skills": [
+                "Azure Data Solutions",
+                "Azure Services",
+                "Data Solutions",
+                "Business Inteligence",
+                "Analytics Solutions",
+                "Data Warehouses",
+                "Data Integration",
+                "Machine Learning",
+                "Azure",
+                "snowflake",
+                "Spark",
+                "AI",
+                "Data warehouses",
+                "Big Data",
+                "SQL",
+                "Python",
+                "Data warehouse",
+                "Data modelling",
+                "Azure Data",
+                "GCP",
+                "Databricks",
+                "Kafka",
+                "Google Cloud"
+            ],
+            "min_salary": 18500,
+            "max_salary": 36960
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-science-engineer-infogain-technologies-krakow",
+            "title": "Data Science Engineer",
+            "company": "Infogain Technologies Sp. z o.o.",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "R",
+                "SQL",
+                "Python",
+                "PySpark",
+                "Analytical skills",
+                "Machnine Learning",
+                "Degree",
+                "Machine learning",
+                "SageMaker",
+                "Amazon Forecast",
+                "Java",
+                "JavaScript",
+                "C++"
+            ],
+            "min_salary": 23520,
+            "max_salary": 26880
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-science-engineer-connectis--remote",
+            "title": "Data Science Engineer",
+            "company": "Connectis_",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Machine Learning",
+                "AWS",
+                "SQL",
+                "Python",
+                "PySpark",
+                "R",
+                "Java",
+                "JavaScript",
+                "C++"
+            ],
+            "min_salary": 16000,
+            "max_salary": 20000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-scientist-sts-katowice",
+            "title": "Data Scientist",
+            "company": "STS S.A.",
+            "seniority": "Mid",
+            "categories:": [
+                "AI",
+                "Python"
+            ],
+            "skills": [
+                "Git",
+                "Python",
+                "Apache Kafka",
+                "Kubernetes",
+                "CI",
+                "Machine learning",
+                "Natural language processing",
+                "scikit-learn",
+                "PyTorch",
+                "Keras",
+                "pandas",
+                "Google Cloud Platform",
+                "CIS",
+                "AI",
+                "GitLab CI",
+                "Kubeflow",
+                "Azure",
+                "AWS"
+            ],
+            "min_salary": 10000,
+            "max_salary": 18500
+        },
+        {
+            "url": "https://nofluffjobs.com/job/cloud-engineer-infrastructure-elitmind-remote-5",
+            "title": "Cloud Engineer (Infrastructure)",
+            "company": "Elitmind",
+            "seniority": "Mid",
+            "categories:": [
+                "DevOps"
+            ],
+            "skills": [
+                "Azure",
+                "Azure Cloud",
+                "Azure DevOps",
+                "DevOps",
+                "GitHub Actions",
+                "ARM",
+                "IaC",
+                "Kubernetes",
+                "OpenShift",
+                "Docker",
+                "AWS",
+                "GCP",
+                "Bicep",
+                "SQL Server",
+                "Power BI",
+                "Machine Learning",
+                "CI",
+                "CD",
+                "Machine learning"
+            ],
+            "min_salary": 15960,
+            "max_salary": 24024
+        },
+        {
+            "url": "https://nofluffjobs.com/job/azure-data-engineer-remote-full-part-time-10-senses",
+            "title": "Azure Data Engineer (Remote, full / part-time)",
+            "company": "10 Senses",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "Azure Synapse",
+                "Azure Synapse Analytics",
+                "Azure Data Lake Storage",
+                "Azure Databricks",
+                "Azure Pipelines",
+                "SQL",
+                "Azure Data Factory",
+                "Azure Kubernetes Service",
+                "Docker",
+                "Power BI",
+                "Python",
+                "Scala",
+                "Airflow",
+                "Google cloud platform",
+                "AWS",
+                "Bash",
+                "Machine learning",
+                "AI"
+            ],
+            "min_salary": 25200,
+            "max_salary": 31920
+        }
+    ]
+}

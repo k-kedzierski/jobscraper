@@ -1,0 +1,2377 @@
+{
+    "site": "nofluffjobs",
+    "keyword": "data engineer",
+    "timestamp": "2024-02-12 01:18:28",
+    "uuid": "91821c2c-a613-4504-976b-603838e6bdd0",
+    "data": [
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-comscore-remote-1",
+            "title": "Data Engineer",
+            "company": "ComScore",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Spark"
+            ],
+            "skills": [
+                "Spark",
+                "Java",
+                "Linux",
+                "API",
+                "AWS",
+                "Jenkins",
+                "RDBM"
+            ],
+            "salaries": [
+                "20 000 \u2013 25 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-big-data-engineer-scala-python-data-ai-allegro-warszawa",
+            "title": "Senior Big Data Engineer (Scala/Python) - Data&AI",
+            "company": "Allegro",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Scala",
+                "Python",
+                "Java",
+                "Spark",
+                "GCP",
+                "Azure",
+                "AWS",
+                "Clean Code",
+                "TDD",
+                "CI/CD",
+                "Unix",
+                "Linux"
+            ],
+            "salaries": [
+                "16 100 \u2013 23 200 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-big-data-engineer-scala-data-ai-allegro-warszawa",
+            "title": "Senior Big Data Engineer (Scala) - Data & AI",
+            "company": "Allegro",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Scala",
+                "Java",
+                "Hadoop",
+                "Spark",
+                "Kafka",
+                "Flink",
+                "GCP",
+                "Public cloud",
+                "Azure",
+                "AWS",
+                "Clean Code",
+                "TDD",
+                "CI/CD",
+                "Unix",
+                "Linux",
+                "AI"
+            ],
+            "salaries": [
+                "16 100 \u2013 23 200 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-machine-learning-research-allegro-warszawa",
+            "title": "Senior Data Engineer - Machine Learning Research",
+            "company": "Allegro",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Degree",
+                "Python",
+                "Git",
+                "DevOps",
+                "SQL",
+                "GCP",
+                "Airflow",
+                "AI",
+                "NoSQL"
+            ],
+            "salaries": [
+                "16 100 \u2013 23 200 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-fp-a-allegro-warszawa",
+            "title": "Senior Data Engineer - FP&A",
+            "company": "Allegro",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "SQL",
+                "Python",
+                "GCP",
+                "Airflow",
+                "Google Composer",
+                "Dataproc",
+                "Spark",
+                "Google Apps Script",
+                "Google Data Studio",
+                "Tableau",
+                "BI"
+            ],
+            "salaries": [
+                "16 100 \u2013 23 200 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-aws-getindata-part-of-xebia-remote",
+            "title": "Senior Data Engineer (AWS)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "AWS"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Redshift",
+                "AWS",
+                "Airflow",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "ETL",
+                "ELT"
+            ],
+            "salaries": [
+                "26 880 \u2013 33 600 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-analyst-engineer-mid-senior-revolut-ltd-remote",
+            "title": "Data Analyst (Engineer) (mid/senior)",
+            "company": "Revolut Ltd",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Java",
+                "Scala",
+                "C++"
+            ],
+            "salaries": []
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-gcp-getindata-part-of-xebia-remote",
+            "title": "Senior Data Engineer (GCP)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "GCP"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "BigQuery",
+                "Spark",
+                "GCP",
+                "Airflow",
+                "Kubernetes",
+                "Docker",
+                "Git"
+            ],
+            "salaries": [
+                "26 880 \u2013 33 600 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-stx-next-remote-6",
+            "title": "Data Engineer",
+            "company": "STX Next",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Python",
+                "Java",
+                "Scala",
+                "Bash",
+                "SQL",
+                "Big Data",
+                "Apache Spark",
+                "Distributed computing",
+                "Big data",
+                "Airflow",
+                "AWS",
+                "Azure",
+                "Google Cloud Platform",
+                "PostgreSQL",
+                "MySQL",
+                "Redshift",
+                "BigQuery",
+                "NoSQL",
+                "MongoDB",
+                "Cassandra",
+                "Storage",
+                "Apache Iceberg",
+                "Delta Lake",
+                "dbt",
+                "Data modelling",
+                "Vault"
+            ],
+            "salaries": []
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-azure-getindata-part-of-xebia-remote-2",
+            "title": "Senior Data Engineer (Azure)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Databricks",
+                "Kafka",
+                "Git",
+                "Airflow",
+                "Docker",
+                "Terraform",
+                "CI/CD",
+                "Microsoft Azure"
+            ],
+            "salaries": [
+                "26 880 \u2013 33 600 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-product-catalogue-ml-allegro-warszawa",
+            "title": "Data Engineer - Product Catalogue ML",
+            "company": "Allegro",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Python",
+                "Big Data",
+                "Spark",
+                "DevOps",
+                "SQL",
+                "ML",
+                "AI",
+                "Communication skills",
+                "MLOps",
+                "BigQuery",
+                "Dataproc",
+                "Airflow"
+            ],
+            "salaries": [
+                "12 300 \u2013 17 600 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-proxet-remote-3",
+            "title": "Data Engineer",
+            "company": "Proxet",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Data engineering",
+                "Data warehouse",
+                "ETL",
+                "Relational database",
+                "Storage",
+                "Monitoring tools",
+                "CI/CD",
+                "Communication skills",
+                "Spark",
+                "Databricks",
+                "Python",
+                "Docker",
+                "Kubernetes",
+                "AWS Lambda",
+                "SQL Server",
+                "Power BI",
+                "PostgreSQL",
+                "MySQL"
+            ],
+            "salaries": [
+                "20 048 \u2013 34 081 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/tech-lead-data-engineer-with-aws-nordcloud-remote",
+            "title": "Tech Lead Data Engineer with AWS",
+            "company": "Nordcloud",
+            "seniority": "Expert",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "Python",
+                "Airflow",
+                "Kubernetes",
+                "Terraform",
+                "AWS",
+                "Azure",
+                "Data engineering",
+                "Scala",
+                "Java",
+                "Docker",
+                "CI",
+                "CD",
+                "IaaC",
+                "Data analytics",
+                "pandas",
+                "Google cloud",
+                "ADF",
+                "AWS Glue",
+                "HDFS",
+                "Hive",
+                "Vault",
+                "SQL",
+                "ANSI",
+                "Spark SQL",
+                "Presto",
+                "ETL"
+            ],
+            "salaries": [
+                "28 000 \u2013 30 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-delivery-experience-allegro-warszawa",
+            "title": "Data Engineer (Delivery Experience)",
+            "company": "Allegro",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "GCP",
+                "SQL",
+                "ETL",
+                "ELT",
+                "Python",
+                "PySpark",
+                "Airflow",
+                "Google Cloud Platform",
+                "BigQuery",
+                "Azure"
+            ],
+            "salaries": [
+                "12 300 \u2013 17 600 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/medior-senior-data-engineer-python-nix-tech-kft--budapest",
+            "title": "Medior/Senior Data Engineer Python",
+            "company": "NIX Tech Kft.",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Data engineering",
+                "ETL",
+                "ELT",
+                "Database",
+                "Orchestration",
+                "Cloud",
+                "Big data",
+                "Spark",
+                "PySpark",
+                "Data flows",
+                "Docker",
+                "Kubernetes",
+                "Clouds"
+            ],
+            "salaries": [
+                "11 107 \u2013 21 103 PLN; gross per month (employment) ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-falck-it-poland-warsaw",
+            "title": "Senior Data Engineer",
+            "company": "Falck IT Poland Sp. z o.o.",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Kafka",
+                "SQL",
+                "Azure",
+                "Python",
+                "PySpark",
+                "Data modeling",
+                "CAN",
+                "Delta Table"
+            ],
+            "salaries": [
+                "24 000 \u2013 28 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-mid-regular-sunscrapers-remote",
+            "title": "Data Engineer (Mid / Regular)",
+            "company": "Sunscrapers",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "PostgreSQL",
+                "Dagster",
+                "Data pipelines",
+                "DBT",
+                "Snowflake",
+                "AWS",
+                "Prisma",
+                "Sentry",
+                "Data modeling",
+                "Testing (DBT)"
+            ],
+            "salaries": [
+                "22 000 \u2013 25 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/financial-data-engineer-softkraft-remote",
+            "title": "Financial Data Engineer",
+            "company": "SoftKraft Sp z o.o.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Git"
+            ],
+            "salaries": [
+                "15 960 \u2013 25 870 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-sollers-consulting-wroclaw-1",
+            "title": "Data Engineer",
+            "company": "Sollers Consulting",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Kafka"
+            ],
+            "skills": [
+                "Spark",
+                "Kafka",
+                "SQL",
+                "NoSQL",
+                "ETL",
+                "Python",
+                "Java",
+                "Scala",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Snowflake",
+                "Databricks",
+                "Airflow"
+            ],
+            "salaries": [
+                "17 200 \u2013 21 000 PLN; + VAT (B2B) per month ",
+                "15 000 \u2013 19 600 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-allstarsit-remote",
+            "title": "Data Engineer",
+            "company": "ALLSTARSIT",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "PySpark",
+                "SQL",
+                "AWS",
+                "ETL",
+                "Relational database",
+                "Data modeling",
+                "Communication skills",
+                "Databricks"
+            ],
+            "salaries": [
+                "28 067 \u2013 30 072 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-knowit-remote-1",
+            "title": "Data Engineer",
+            "company": "Knowit",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "SQL",
+                "Data warehouse",
+                "Power BI",
+                "Snowflake",
+                "Azure"
+            ],
+            "salaries": [
+                "16 800 \u2013 23 520 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-seb-skandinaviska-enskilda-banken-warszawa-3",
+            "title": "Data Engineer",
+            "company": "SEB (Skandinaviska Enskilda Banken)",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Spark"
+            ],
+            "skills": [
+                "CI/CD",
+                "Spark",
+                "Container",
+                "GCP",
+                "Scala",
+                "Java",
+                "Python",
+                "Spark",
+                "Kubernetes",
+                "Kafka",
+                "OpenShift",
+                "GitHub Actions",
+                "Cloud",
+                "Airflow"
+            ],
+            "salaries": [
+                "28 000 \u2013 33 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-link-group-krakow",
+            "title": "Senior Data Engineer",
+            "company": "Link Group",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "SQL",
+                "Python",
+                "Airflow",
+                "Data engineering",
+                "ETL",
+                "Kubernetes",
+                "Big data",
+                "DWH",
+                "Kafka",
+                "Terraform"
+            ],
+            "salaries": [
+                "24 000 \u2013 28 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-sunscrapers-remote-1",
+            "title": "Data Engineer",
+            "company": "Sunscrapers",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Pandas",
+                "Sequel",
+                "dbt",
+                "ETL",
+                "Snowflake",
+                "Docker",
+                "Azure",
+                "Terraform"
+            ],
+            "salaries": [
+                "20 000 \u2013 24 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/software-engineer-java-big-data-team-data-ai-allegro-warszawa",
+            "title": "Software Engineer (Java, Big Data Team) - Data&AI",
+            "company": "Allegro",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Java",
+                "Clean Code",
+                "TDD",
+                "CI/CD",
+                "Unix",
+                "Linux",
+                "AI",
+                "Scala",
+                "Kotlin"
+            ],
+            "salaries": [
+                "12 300 \u2013 17 600 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-with-python-axa-it-solutions-warszawa",
+            "title": "Data Engineer with Python",
+            "company": "AXA IT Solutions",
+            "seniority": "Junior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Spark",
+                "Databricks",
+                "Azure Data Factory",
+                "Git",
+                "Azure Event Hub",
+                "Azure Pipelines"
+            ],
+            "salaries": [
+                "15 960 \u2013 25 200 PLN; + VAT (B2B) per month ",
+                "9 500 \u2013 18 000 PLN; gross per month (employment) ",
+                "; ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-2-3yrs-avenga-gdansk",
+            "title": "Data Engineer (2-3yrs)",
+            "company": "Avenga",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Java"
+            ],
+            "skills": [
+                "Java",
+                "Spark",
+                "Apache Spark",
+                "Scala"
+            ],
+            "salaries": [
+                "15 120 \u2013 21 000 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/azure-data-engineer-jss-associates-poznan",
+            "title": "Azure Data Engineer",
+            "company": "JSS Associates",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Data engineering",
+                "ETL",
+                "Power BI",
+                "Tableau"
+            ],
+            "salaries": [
+                "29 400 \u2013 42 000 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-hive-spark-scala-jss-associates-remote",
+            "title": "Data Engineer Hive Spark Scala",
+            "company": "JSS Associates",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Spark",
+                "Scala",
+                "Hadoop",
+                "Hive"
+            ],
+            "salaries": [
+                "21 000 \u2013 25 200 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-with-spark-hive-and-hadoop-jss-associates-remote",
+            "title": "Data Engineer with Spark, Hive and Hadoop",
+            "company": "JSS Associates",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Spark",
+                "Hive",
+                "Hadoop"
+            ],
+            "salaries": [
+                "27 300 \u2013 33 600 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-mindbox-krakow-3",
+            "title": "Data Engineer",
+            "company": "Mindbox S.A.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Data modeling",
+                "Data engineering",
+                "Data base",
+                "Data visualization",
+                "Data pipelines",
+                "SQL",
+                "Jira",
+                "Confluence",
+                "BigQuery",
+                "Hadoop",
+                "Python",
+                "Java",
+                "Spring Boot",
+                "Hive",
+                "Elasticsearch",
+                "Yarn",
+                "Scala"
+            ],
+            "salaries": [
+                "27 300 \u2013 35 700 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/junior-business-data-analyst-bi-engineer-nix-tech-kft--budapest",
+            "title": "Junior Business Data Analyst / BI engineer",
+            "company": "NIX Tech Kft.",
+            "seniority": "Junior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Power BI",
+                "Tableau",
+                "DBMS",
+                "PostgreSQL",
+                "SQL",
+                "Jira",
+                "Confluence",
+                "Data warehouse",
+                "ETL",
+                "Git/VCS",
+                "A/B Testing",
+                "Correlation",
+                "Python 3",
+                "Regression",
+                "Cluster analysis",
+                "K-means",
+                "decision trees"
+            ],
+            "salaries": [
+                "5 553 \u2013 7 774 PLN; gross per month (employment) ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-sii-polska-warszawa",
+            "title": "Data Engineer",
+            "company": "Sii Polska",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Hadoop"
+            ],
+            "skills": [
+                "Hadoop",
+                "Spark",
+                "Python",
+                "Ansible",
+                "CI/CD",
+                "Apache Kafka",
+                "Apache Nifi",
+                "Hive"
+            ],
+            "salaries": [
+                "16 800 \u2013 24 150 PLN; + VAT (B2B) per month ",
+                "12 000 \u2013 15 000 PLN; gross per month (employment) ",
+                "; ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-iii-forecasting-tesco-technology-krakow-2",
+            "title": "Data Engineer III - Forecasting",
+            "company": "Tesco Technology",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Hadoop",
+                "Spark",
+                "PySpark",
+                "Python",
+                "pandas",
+                "Design Patterns"
+            ],
+            "salaries": [
+                "26 000 \u2013 40 000 PLN; + VAT (B2B) per month ",
+                "22 000 \u2013 33 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-iii-fulfillment-tesco-technology-krakow",
+            "title": "Data Engineer III - Fulfillment",
+            "company": "Tesco Technology",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Scala"
+            ],
+            "skills": [
+                "Hadoop",
+                "Scala",
+                "Kafka",
+                "Kubernetes",
+                "Spark",
+                "Spark Streaming"
+            ],
+            "salaries": [
+                "26 000 \u2013 40 000 PLN; + VAT (B2B) per month ",
+                "22 000 \u2013 33 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/lead-data-scientist-engineer-1-517-infolet-remote",
+            "title": "Lead Data Scientist Engineer (1/517)",
+            "company": "Infolet",
+            "seniority": "Expert",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "SQL",
+                "Degree",
+                "Python",
+                "PySpark",
+                "Java",
+                "JavaScript",
+                "C++",
+                "Communication skills",
+                "ML",
+                "Analytical skills",
+                "Forecasting"
+            ],
+            "salaries": [
+                "22 680 \u2013 27 720 PLN; + VAT (B2B) per month ",
+                "15 400 \u2013 19 000 PLN; gross per month (employment) ",
+                "; ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-inzynier-danych-inzynierka-danych-alterdata-io-remote",
+            "title": "Data Engineer (in\u017cynier danych/in\u017cynierka danych)",
+            "company": "Alterdata.io sp. z o.o.",
+            "seniority": "Junior",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "Python",
+                "sql",
+                "Problem solving",
+                "Git",
+                "Communication skills",
+                "Data Engineering",
+                "Azure",
+                "AWS",
+                "Google Cloud Platform",
+                "Airflow",
+                "Spark",
+                "Snowflake",
+                "DBT",
+                "BigQuery",
+                "AWS Redshift",
+                "Azure Data Factory",
+                "ETL",
+                "Databricks"
+            ],
+            "salaries": [
+                "7 000 \u2013 11 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-spark-getindata-part-of-xebia-remote",
+            "title": "Data Engineer (Spark)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Spark"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Spark",
+                "PySpark",
+                "Databricks",
+                "VCS"
+            ],
+            "salaries": [
+                "18 480 \u2013 26 880 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/remote-senior-data-engineer-kingfisher-plc-",
+            "title": "Remote Senior Data Engineer",
+            "company": "Kingfisher plc.",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "AWS",
+                "SQL",
+                "Azure"
+            ],
+            "salaries": [
+                "22 000 \u2013 25 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/remote-mid-data-engineer-kingfisher-plc-",
+            "title": "Remote Mid Data Engineer",
+            "company": "Kingfisher plc.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "AWS",
+                "Data modelling",
+                "Storage",
+                "Azure Cloud"
+            ],
+            "salaries": [
+                "15 000 \u2013 19 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-science-engineer-infogain-technologies-krakow",
+            "title": "Data Science Engineer",
+            "company": "Infogain Technologies Sp. z o.o.",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "R",
+                "SQL",
+                "Python",
+                "PySpark",
+                "Analytical skills",
+                "Machnine Learning",
+                "Degree",
+                "Machine learning",
+                "SageMaker",
+                "Amazon Forecast",
+                "Java",
+                "JavaScript",
+                "C++"
+            ],
+            "salaries": [
+                "23 520 \u2013 26 880 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-chorus-one-remote",
+            "title": "Data Engineer",
+            "company": "Chorus One",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "AWS"
+            ],
+            "skills": [
+                "Blockchain",
+                "SQL",
+                "AWS",
+                "GCP",
+                "Azure",
+                "NoSQL",
+                "Airflow",
+                "PyTorch",
+                "TensorFlow",
+                "Python"
+            ],
+            "salaries": [
+                "23 389 \u2013 33 413 PLN; gross per month (employment) ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-snowflake-getindata-part-of-xebia-remote-2",
+            "title": "Data Engineer (Snowflake)",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Snowflake"
+            ],
+            "skills": [
+                "Snowflake",
+                "Python",
+                "SQL",
+                "dbt",
+                "Airflow",
+                "Dagster",
+                "Prefect"
+            ],
+            "salaries": [
+                "26 880 \u2013 33 600 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/remote-data-engineer-spark-varwise",
+            "title": "Remote Data Engineer (Spark)",
+            "company": "Varwise",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Scala"
+            ],
+            "skills": [
+                "Spark",
+                "AWS",
+                "Linux",
+                "NoSQL",
+                "SQL",
+                "Kafka",
+                "Java",
+                "Scala",
+                "AWS Lambda",
+                "Glue",
+                "Athena",
+                "Cassandra",
+                "Neo4j",
+                "Databricks",
+                "PySpark",
+                "Kinesis",
+                "Airflow",
+                "Jenkins",
+                "Datadog",
+                "Python",
+                "TensorFlow"
+            ],
+            "salaries": [
+                "26 864 \u2013 36 888 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-hubquest-remote-5",
+            "title": "Data Engineer",
+            "company": "hubQuest",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "ETL",
+                "Data engineering",
+                "pandas",
+                "NumPy",
+                "SQLAlchemy",
+                "FastAPI",
+                "SQL Server",
+                "Snowflake",
+                "Kubernetes",
+                "GitLab",
+                "Argo CD",
+                "Grafana",
+                "Prometheus",
+                "Agile",
+                "AWS",
+                "AWS SageMaker",
+                "Athena",
+                "Glue",
+                "AWS S3",
+                "Step Functions"
+            ],
+            "salaries": [
+                "27 000 \u2013 37 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-gog-warsaw-1",
+            "title": "Senior Data Engineer",
+            "company": "GOG",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Machine Learing",
+                "API",
+                "BigQuery",
+                "Data structures",
+                "Design Patterns",
+                "Docker",
+                "Kubernetes",
+                "Golang",
+                "Microservice architecture",
+                "Performance tuning",
+                "Web applications"
+            ],
+            "salaries": [
+                "20 000 \u2013 30 000 PLN; + VAT (B2B) per month ",
+                "20 000 \u2013 30 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/principal-data-scientist-engineer-avenga-remote",
+            "title": "Principal Data Scientist Engineer",
+            "company": "Avenga",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "C++"
+            ],
+            "skills": [
+                "C++",
+                "Java",
+                "Communication skills",
+                "Analytical skills",
+                "Data management",
+                "Machine learning"
+            ],
+            "salaries": [
+                "30 240 \u2013 33 600 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/medior-senior-data-engineer-scala-nix-tech-kft--budapest",
+            "title": "Medior/Senior Data Engineer Scala",
+            "company": "NIX Tech Kft.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Scala"
+            ],
+            "skills": [
+                "Scala",
+                "SQL",
+                "Data engineering",
+                "ETL",
+                "ELT",
+                "Database",
+                "Orchestration",
+                "Airflow",
+                "Cloud",
+                "Big data",
+                "Spark",
+                "Kafka",
+                "Data flows",
+                "Docker",
+                "Kubernetes",
+                "Clouds"
+            ],
+            "salaries": [
+                "11 107 \u2013 21 103 PLN; gross per month (employment) ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-virtuslab-remote",
+            "title": "Data Engineer",
+            "company": "VirtusLab",
+            "seniority": "Expert",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Data modeling",
+                "Programming",
+                "Data warehouse",
+                "AWS",
+                "GCP",
+                "BI",
+                "Data pipelines",
+                "AWS S3",
+                "AWS Lambda",
+                "Amazon EMR",
+                "Glue",
+                "Snowflake",
+                "ETL",
+                "Terraform",
+                "Athena",
+                "dbt",
+                "Airflow",
+                "Data visualization"
+            ],
+            "salaries": [
+                "26 000 \u2013 31 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-with-python-objectivity-part-of-accenture-remote-2",
+            "title": "Senior Data Engineer with Python",
+            "company": "Objectivity - part of Accenture",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Databricks"
+            ],
+            "skills": [
+                "Python",
+                "PySpark",
+                "Databricks",
+                "Lakehouse",
+                "NoSQL",
+                "Data modelling",
+                "Azure",
+                "Snowflake",
+                "Microsoft Fabric",
+                "BS"
+            ],
+            "salaries": [
+                "21 840 \u2013 30 240 PLN; + VAT (B2B) per month ",
+                "14 000 \u2013 20 000 PLN; gross per month (employment) ",
+                "; ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/big-data-engineer-reply-polska-katowice",
+            "title": "Big Data Engineer",
+            "company": "Reply Polska",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Spark"
+            ],
+            "skills": [
+                "Spark",
+                "Kubernetes",
+                "Docker",
+                "Microservices",
+                "Terraform",
+                "DevOps",
+                "GitLab CI",
+                "Jenkins",
+                "Integration test",
+                "Cloud computing",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Databricks",
+                "Snowflake",
+                "Clean Code",
+                "Java",
+                "SQL",
+                "Scala"
+            ],
+            "salaries": [
+                "9 000 \u2013 16 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-platform-engineer-consultant-elitmind-remote-2",
+            "title": "Data Platform Engineer/Consultant",
+            "company": "Elitmind",
+            "seniority": "Mid",
+            "categories:": [
+                "Business Intelligence"
+            ],
+            "skills": [
+                "English",
+                "SQL",
+                "ETL",
+                "Azure",
+                "Databricks",
+                "Snowflake",
+                "Python",
+                "Data Modelling skills"
+            ],
+            "salaries": [
+                "13 944 \u2013 19 992 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-adaptiq-remote",
+            "title": "Senior Data Engineer",
+            "company": "Adaptiq",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Spark",
+                "Kafka",
+                "Airflow",
+                "Scala",
+                "Java",
+                "Go",
+                "Databricks",
+                "Snowflake",
+                "ETL/ELT processes"
+            ],
+            "salaries": [
+                "26 062 \u2013 28 067 PLN; + VAT (B2B) per month ",
+                "26 062 \u2013 28 067 PLN; gross per month (employment) ",
+                "; ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/etl-data-engineer-sofomo-remote",
+            "title": "ETL/ Data Engineer",
+            "company": "Sofomo",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "ETL",
+                "PowerBI",
+                "Tableau",
+                "SQL",
+                "Data engineering",
+                "Looker",
+                "BI",
+                "Microsoft Azure"
+            ],
+            "salaries": [
+                "11 000 \u2013 15 000 PLN; + VAT (B2B) per month ",
+                "9 000 \u2013 13 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-hubquest-remote-4",
+            "title": "Senior Data Engineer",
+            "company": "hubQuest",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "ETL",
+                "Data engineering",
+                "pandas",
+                "NumPy",
+                "SQLAlchemy",
+                "FastAPI",
+                "SQL Server",
+                "Snowflake",
+                "Kubernetes",
+                "GitLab",
+                "Argo CD",
+                "Grafana",
+                "Prometheus",
+                "Agile",
+                "AWS",
+                "AWS SageMaker",
+                "Athena",
+                "Glue",
+                "AWS S3",
+                "Step Functions"
+            ],
+            "salaries": [
+                "30 000 \u2013 40 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-fizetesi-pont-kft--budapest",
+            "title": "Data Engineer",
+            "company": "Fizet\u00e9si Pont Kft.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Data pipelines",
+                "Azure Data",
+                "Azure Data Lake",
+                "Azure Data Factory",
+                "Blob Storage",
+                "ETL",
+                "Quality control",
+                "Azure"
+            ],
+            "salaries": [
+                "14 439 \u2013 17 771 PLN; gross per month (employment) ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/middle-data-engineer-support-team-n-ix-remote",
+            "title": "Middle Data Engineer (Support team)",
+            "company": "N-iX",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Spark",
+                "PySpark",
+                "Data warehouse",
+                "TypeScript"
+            ],
+            "salaries": [
+                "14 835 \u2013 16 840 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-science-engineer-connectis--remote",
+            "title": "Data Science Engineer",
+            "company": "Connectis_",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Machine Learning",
+                "AWS",
+                "SQL",
+                "Python",
+                "PySpark",
+                "R",
+                "Java",
+                "JavaScript",
+                "C++"
+            ],
+            "salaries": [
+                "16 000 \u2013 20 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-avenga-remote-15",
+            "title": "Senior Data Engineer",
+            "company": "AVENGA",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "AWS",
+                "Airflow"
+            ],
+            "salaries": [
+                "25 200 \u2013 28 560 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-remote-directio",
+            "title": "Data Engineer - remote",
+            "company": "Directio Sp. z o.o.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Hadoop",
+                "Flink",
+                "PostgreSQL",
+                "Data warehouse",
+                "Apache Spark",
+                "Jupyter Notebook",
+                "Python",
+                "Java",
+                ".NET"
+            ],
+            "salaries": [
+                "21 000 \u2013 28 500 PLN; + VAT (B2B) per month ",
+                "16 500 \u2013 20 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-and-ai-engineer-getindata-part-of-xebia-remote",
+            "title": "Senior Data and AI Engineer",
+            "company": "GetInData | Part of Xebia",
+            "seniority": "Senior",
+            "categories:": [
+                "AI"
+            ],
+            "skills": [
+                "Python",
+                "Databricks",
+                "Airflow",
+                "BigQuery",
+                "Spark",
+                "NLP",
+                "GCP"
+            ],
+            "salaries": [
+                "25 200 \u2013 33 600 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/azure-data-engineer-remote-full-part-time-10-senses",
+            "title": "Azure Data Engineer (Remote, full / part-time)",
+            "company": "10 Senses",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "Azure Synapse",
+                "Azure Synapse Analytics",
+                "Azure Data Lake Storage",
+                "Azure Databricks",
+                "Azure Pipelines",
+                "SQL",
+                "Azure Data Factory",
+                "Azure Kubernetes Service",
+                "Docker",
+                "Power BI",
+                "Python",
+                "Scala",
+                "Airflow",
+                "Google cloud platform",
+                "AWS",
+                "Bash",
+                "Machine learning",
+                "AI"
+            ],
+            "salaries": [
+                "25 200 \u2013 31 920 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-photon-energy-group-remote-1",
+            "title": "Data Engineer",
+            "company": "Photon Energy Group",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Kafka",
+                "Data pipelines",
+                "Data engineering",
+                "Python",
+                "AWS",
+                "NiFi",
+                "Argo",
+                "API",
+                "Snowflake",
+                "Spark",
+                "Analysis",
+                "Azure Data Factory",
+                "Airflow",
+                "Azure",
+                "BigQuery",
+                "Snowpark"
+            ],
+            "salaries": [
+                "14 000 \u2013 20 000 PLN; + VAT (B2B) per month ",
+                "16 000 \u2013 24 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/big-data-engineer-devire-remote-1",
+            "title": "Big Data Engineer",
+            "company": "Devire Sp. z o.o.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Spark"
+            ],
+            "skills": [
+                "Spark",
+                "Degree",
+                "Big Data",
+                "Scala",
+                "Microservices architecture",
+                "Kafka",
+                "Flink",
+                "HDFS",
+                "NoSQL",
+                "Hive",
+                "HBase",
+                "Cassandra",
+                "Elasticsearch",
+                "TDD",
+                "CI",
+                "CD",
+                "Jenkins",
+                "Maven",
+                "Gradle",
+                "Design Patterns",
+                "sbt",
+                "VCS",
+                "Git"
+            ],
+            "salaries": [
+                "23 520 \u2013 33 600 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-connectis--remote-2",
+            "title": "Data Engineer",
+            "company": "Connectis_",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Azure"
+            ],
+            "skills": [
+                "Azure Data Lake",
+                "Azure Databricks",
+                "Azure Data Factory",
+                "SQL",
+                "MS SQL",
+                "PostgreSQL",
+                "Python",
+                "PL/SQL",
+                "Power BI",
+                "ETL"
+            ],
+            "salaries": [
+                "26 000 \u2013 31 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/junior-data-engineer-python-nix-tech-kft--budapest",
+            "title": "Junior Data Engineer Python",
+            "company": "NIX Tech Kft.",
+            "seniority": "Junior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Data Engineer",
+                "Python",
+                "SQL",
+                "PostgreSQL",
+                "MySQL",
+                "Oracle",
+                "Data Factory",
+                "Airflow",
+                "Talend",
+                "AWS Glue",
+                "Azure",
+                "MongoDB"
+            ],
+            "salaries": [
+                "8 885 \u2013 12 217 PLN; gross per month (employment) ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/junior-data-engineer-scala-nix-tech-kft--budapest",
+            "title": "Junior Data Engineer Scala",
+            "company": "NIX Tech Kft.",
+            "seniority": "Junior",
+            "categories:": [
+                "Data",
+                "Scala"
+            ],
+            "skills": [
+                "SQL",
+                "PostgreSQL",
+                "MySQL",
+                "Scala",
+                "MSSQL",
+                "Data",
+                "Kafka",
+                "Flink",
+                "MongoDB",
+                "GCP",
+                "AWS",
+                "Azure"
+            ],
+            "salaries": [
+                "8 885 \u2013 12 217 PLN; gross per month (employment) ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-ops-engineer-roche-warszawa",
+            "title": "Data Ops Engineer",
+            "company": "Roche",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "AWS Cloud",
+                "AWS Lambda",
+                "AWS S3",
+                "Snowflake",
+                "Data engineering",
+                "SQL",
+                "ETL",
+                "Data modeling",
+                "GitLab",
+                "Bitbucket",
+                "DevOps",
+                "Python"
+            ],
+            "salaries": [
+                "12 500 \u2013 18 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/medior-senior-business-data-analyst-bi-engineer-nix-tech-kft--budapest",
+            "title": "Medior/Senior Business Data Analyst / BI engineer",
+            "company": "NIX Tech Kft.",
+            "seniority": "Mid",
+            "categories:": [
+                "Business Analysis"
+            ],
+            "skills": [
+                "Hungarian Language",
+                "DWH",
+                "SQL",
+                "MS Excel",
+                "SDLC",
+                "Jira",
+                "Confluence",
+                "Python",
+                "Google Analytics",
+                "Amplitude"
+            ],
+            "salaries": [
+                "8 885 \u2013 12 217 PLN; gross per month (employment) ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-support-team-centrum-informatyki-statystycznej-warszawa",
+            "title": "Data Engineer (Support team)",
+            "company": "Centrum Informatyki Statystycznej",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Spark"
+            ],
+            "skills": [
+                "SQL",
+                "Python",
+                "R",
+                "NoSQL",
+                "Data science",
+                "Big data",
+                "Scala",
+                "Spark"
+            ],
+            "salaries": [
+                "8 000 \u2013 14 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/big-data-developer-emagine-warsaw",
+            "title": "Big Data Developer",
+            "company": "emagine Sp. Z o.o.",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Big Data",
+                "Hadoop",
+                "Cloudera",
+                "Python",
+                "Scala",
+                "Java",
+                "Spark",
+                "JSON",
+                "Hive",
+                "Kudu",
+                "SQL",
+                "Maven",
+                "Jira",
+                "Confluence",
+                "Kanban",
+                "Kubeflow",
+                "Kafka",
+                "Ansible"
+            ],
+            "salaries": [
+                "18 480 \u2013 23 520 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/inzynier-danych-centralny-osrodek-informatyki-remote",
+            "title": "In\u017cynier Danych",
+            "company": "Centralny O\u015brodek Informatyki",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "SQL",
+                "NoSQL",
+                "Data warehouse",
+                "Databricks",
+                "Snowflake",
+                "Redshift",
+                "ETL",
+                "PySpark",
+                "Hadoop",
+                "AWS",
+                "GCP",
+                "Apache Airflow",
+                "Bash",
+                "REST API",
+                "Python",
+                "Azure",
+                "Docker",
+                "Big Data"
+            ],
+            "salaries": [
+                "14 000 \u2013 28 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/big-data-developer-snowflake-britenet-remote",
+            "title": "Big Data Developer (Snowflake)",
+            "company": "Britenet",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Snowflake"
+            ],
+            "skills": [
+                "Snowflake",
+                "Python",
+                "Azure IoT",
+                "Azure Event Hub",
+                "Azure Data Factory",
+                "Azure",
+                "Azure Data",
+                "Azure SQL Database"
+            ],
+            "salaries": []
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-developer-analytics-bonprix--lodz",
+            "title": "Data Developer Analytics",
+            "company": "bonprix.",
+            "seniority": "Mid",
+            "categories:": [
+                "Business Intelligence"
+            ],
+            "skills": [
+                "BI",
+                "Qlik",
+                "SQL",
+                "Python"
+            ],
+            "salaries": [
+                "15 200 \u2013 19 800 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/programista-dwh-apreel-remote",
+            "title": "Programista DWH",
+            "company": "apreel Sp. z o.o.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "PL/SQL",
+                "Python",
+                "ETL",
+                "MS SQL",
+                "PostgreSQL",
+                "Databricks",
+                "Azure"
+            ],
+            "salaries": [
+                "23 520 \u2013 30 240 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/etl-developer-avenga-gdansk-1",
+            "title": "ETL Developer",
+            "company": "AVENGA",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Oracle",
+                "Linux",
+                "IBM Db2"
+            ],
+            "salaries": [
+                "21 000 \u2013 24 360 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-architect-connectis--remote-2",
+            "title": "Data Architect",
+            "company": "Connectis_",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Data engineering"
+            ],
+            "salaries": [
+                "21 000 \u2013 27 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-hadoop-big-data-developer-nordea-bank-abp-warszawa",
+            "title": "Senior Hadoop / Big Data Developer",
+            "company": "Nordea Bank ABP",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Hadoop"
+            ],
+            "skills": [
+                "Hadoop",
+                "Java",
+                "Scala",
+                "Spark",
+                "Linux",
+                "Shell",
+                "SQL",
+                "yarn",
+                "Hive",
+                "CI/CD",
+                "Git",
+                "Ansible",
+                "Bamboo",
+                "Functional programming",
+                "Flink",
+                "Kafka",
+                "Data analysis",
+                "Agile"
+            ],
+            "salaries": [
+                "18 850 \u2013 22 700 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-architect-stx-next-remote",
+            "title": "Data Architect",
+            "company": "STX Next",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Data modelling",
+                "IoT",
+                "ETL",
+                "NiFi",
+                "Spark Streaming",
+                "Oracle",
+                "Neo4j",
+                "Amazon Redshift",
+                "Google BigQuery",
+                "Snowflake",
+                "Spark",
+                "Cloud platform",
+                "CI",
+                "CD",
+                "Communication skills"
+            ],
+            "salaries": []
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-analysis-expert-hrk-tychy",
+            "title": "Data Analysis Expert",
+            "company": "HRK S.A.",
+            "seniority": "Expert",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "BI",
+                "Data analysis",
+                "CRM",
+                "Power BI",
+                "Excel",
+                "SAP"
+            ],
+            "salaries": []
+        },
+        {
+            "url": "https://nofluffjobs.com/job/product-manager-data-center-cloud-t-mobile-polska-warszawa",
+            "title": "Product Manager - Data Center & Cloud",
+            "company": "T-Mobile Polska",
+            "seniority": "Senior",
+            "categories:": [
+                "Product Management"
+            ],
+            "skills": [
+                "Cloud computing",
+                "CA"
+            ],
+            "salaries": []
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-bi-developer-data-enablement-tribe-t-mobile-polska-warszawa",
+            "title": "Senior BI Developer - Data Enablement Tribe",
+            "company": "T-Mobile Polska",
+            "seniority": "Senior",
+            "categories:": [
+                "Business Intelligence"
+            ],
+            "skills": [
+                "CI",
+                "Oracle",
+                "SQL"
+            ],
+            "salaries": []
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-architect-objectivity-part-of-accenture-remote",
+            "title": "Data Architect",
+            "company": "Objectivity - part of Accenture",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Azure"
+            ],
+            "skills": [
+                "Azure Data Solutions",
+                "Azure Services",
+                "Data Solutions",
+                "Business Inteligence",
+                "Analytics Solutions",
+                "Data Warehouses",
+                "Data Integration",
+                "Machine Learning",
+                "Azure",
+                "snowflake",
+                "Spark",
+                "AI",
+                "Data warehouses",
+                "Big Data",
+                "SQL",
+                "Python",
+                "Data warehouse",
+                "Data modelling",
+                "Azure Data",
+                "GCP",
+                "Databricks",
+                "Kafka",
+                "Google Cloud"
+            ],
+            "salaries": [
+                "28 560 \u2013 36 960 PLN; + VAT (B2B) per month ",
+                "18 500 \u2013 25 000 PLN; gross per month (employment) ",
+                "; ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-science-consultant-nvidia-expert-softserve-remote",
+            "title": "Data Science Consultant (Nvidia Expert)",
+            "company": "SoftServe",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Degree",
+                "CAN",
+                "Python",
+                "Machine Learning",
+                "Software Development Life Cycle",
+                "AI",
+                "GCP",
+                "AWS",
+                "Azure",
+                "Big Data",
+                "Cloud platform"
+            ],
+            "salaries": [
+                "28 000 \u2013 35 000 PLN; + VAT (B2B) per month ",
+                "22 000 \u2013 29 000 PLN; gross per month (employment) "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/programista-etl-informatica-power-center-pl-sql-avenga-warszawa",
+            "title": "Programista ETL, Informatica Power Center, PL/SQL",
+            "company": "Avenga",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "SQL",
+                "PL/SQL",
+                "ETL",
+                "Informatica",
+                "Oracle",
+                "CI",
+                "IPC",
+                "BI",
+                "ITIL",
+                "CASE"
+            ],
+            "salaries": [
+                "18 480 \u2013 23 520 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/cloud-data-architect-transition-technologies-psc-remote",
+            "title": "Cloud Data Architect",
+            "company": "Transition Technologies PSC S.A.",
+            "seniority": "Senior",
+            "categories:": [
+                "Architecture",
+                "AWS"
+            ],
+            "skills": [
+                "CI",
+                "CD",
+                "AWS",
+                "Cloud platform",
+                "Data warehouses",
+                "Data Lake",
+                "MDM"
+            ],
+            "salaries": [
+                "33 000 \u2013 42 000 PLN; + VAT (B2B) per month "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-architect-database-administrator-fizetesi-pont-kft--budapest",
+            "title": "Data Architect / Database Administrator",
+            "company": "Fizet\u00e9si Pont Kft.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Data warehouse",
+                "Azure",
+                "Azure Data",
+                "Azure SQL",
+                "Azure Synapse Analytics",
+                "Databricks",
+                "Azure Data Factory",
+                "Azure Data Lake",
+                "Azure Event Hub",
+                "PowerBI",
+                "SQL",
+                "ETL",
+                "T-SQL",
+                "Python"
+            ],
+            "salaries": [
+                "16 660 \u2013 19 992 PLN; gross per month (employment) ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-streming-devops-expert-squareone-remote",
+            "title": "Data Streming DevOps Expert",
+            "company": "SquareOne",
+            "seniority": "Senior",
+            "categories:": [
+                "DevOps"
+            ],
+            "skills": [
+                "DevOps",
+                "Linux",
+                "Kafka",
+                "ETL",
+                "Airflow",
+                "Cloud",
+                "MQTT",
+                "Java",
+                "Scala",
+                "NoSQL",
+                "Docker",
+                "Kubernetes",
+                "Git",
+                "Bamboo",
+                "Jenkins",
+                "Terraform"
+            ],
+            "salaries": [
+                "25 200 \u2013 28 560 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-platform-architect-elitmind-remote",
+            "title": "Data Platform Architect",
+            "company": "Elitmind",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Databricks"
+            ],
+            "skills": [
+                "Azure",
+                "Data Factory",
+                "Databricks",
+                "SQL",
+                "ETL/ELT",
+                "Data Architecture",
+                "Data Platforms",
+                "Lakehouse",
+                "Azure Synapse",
+                "SQL Server",
+                "Data warehouses",
+                "Data Lake",
+                "Delta Live Table",
+                "UNITY",
+                "Communication skills",
+                "VNET",
+                "VM",
+                "Data Governance",
+                "Professional Certification"
+            ],
+            "salaries": [
+                "26 880 \u2013 33 936 PLN; + VAT (B2B) per month ",
+                "; "
+            ]
+        },
+        {
+            "url": "https://nofluffjobs.com/job/big-data-architect-addepto-remote",
+            "title": "Big Data Architect",
+            "company": "Addepto",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Hadoop",
+                "Spark",
+                "NiFi",
+                "Kafka",
+                "AWS",
+                "Python",
+                "Java",
+                "Scala",
+                "SQL",
+                "Big Data",
+                "Data Integration",
+                "ETL tools",
+                "Docker",
+                "Data management",
+                "NoSQL",
+                "Git",
+                "Kubernetes",
+                "CI/CD"
+            ],
+            "salaries": [
+                "25 000 \u2013 37 800 PLN; + VAT (B2B) per month "
+            ]
+        }
+    ]
+}
