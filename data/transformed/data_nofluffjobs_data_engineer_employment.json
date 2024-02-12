@@ -1,0 +1,511 @@
+{
+    "site": "nofluffjobs",
+    "keyword": "data engineer",
+    "timestamp": "2024-02-12 01:18:28",
+    "uuid": "91821c2c-a613-4504-976b-603838e6bdd0",
+    "data": [
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-machine-learning-research-allegro-warszawa",
+            "title": "Senior Data Engineer - Machine Learning Research",
+            "company": "Allegro",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Degree",
+                "Python",
+                "Git",
+                "DevOps",
+                "SQL",
+                "GCP",
+                "Airflow",
+                "AI",
+                "NoSQL"
+            ],
+            "min_salary": 16100,
+            "max_salary": 23200
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-fp-a-allegro-warszawa",
+            "title": "Senior Data Engineer - FP&A",
+            "company": "Allegro",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "SQL",
+                "Python",
+                "GCP",
+                "Airflow",
+                "Google Composer",
+                "Dataproc",
+                "Spark",
+                "Google Apps Script",
+                "Google Data Studio",
+                "Tableau",
+                "BI"
+            ],
+            "min_salary": 16100,
+            "max_salary": 23200
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-product-catalogue-ml-allegro-warszawa",
+            "title": "Data Engineer - Product Catalogue ML",
+            "company": "Allegro",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Python",
+                "Big Data",
+                "Spark",
+                "DevOps",
+                "SQL",
+                "ML",
+                "AI",
+                "Communication skills",
+                "MLOps",
+                "BigQuery",
+                "Dataproc",
+                "Airflow"
+            ],
+            "min_salary": 12300,
+            "max_salary": 17600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-delivery-experience-allegro-warszawa",
+            "title": "Data Engineer (Delivery Experience)",
+            "company": "Allegro",
+            "seniority": "Mid",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "GCP",
+                "SQL",
+                "ETL",
+                "ELT",
+                "Python",
+                "PySpark",
+                "Airflow",
+                "Google Cloud Platform",
+                "BigQuery",
+                "Azure"
+            ],
+            "min_salary": 12300,
+            "max_salary": 17600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-falck-it-poland-warsaw",
+            "title": "Senior Data Engineer",
+            "company": "Falck IT Poland Sp. z o.o.",
+            "seniority": "Senior",
+            "categories:": [
+                "Data"
+            ],
+            "skills": [
+                "Kafka",
+                "SQL",
+                "Azure",
+                "Python",
+                "PySpark",
+                "Data modeling",
+                "CAN",
+                "Delta Table"
+            ],
+            "min_salary": 24000,
+            "max_salary": 28000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-sollers-consulting-wroclaw-1",
+            "title": "Data Engineer",
+            "company": "Sollers Consulting",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Kafka"
+            ],
+            "skills": [
+                "Spark",
+                "Kafka",
+                "SQL",
+                "NoSQL",
+                "ETL",
+                "Python",
+                "Java",
+                "Scala",
+                "AWS",
+                "Azure",
+                "GCP",
+                "Snowflake",
+                "Databricks",
+                "Airflow"
+            ],
+            "min_salary": 15000,
+            "max_salary": 19600
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-link-group-krakow",
+            "title": "Senior Data Engineer",
+            "company": "Link Group",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "SQL",
+                "Python",
+                "Airflow",
+                "Data engineering",
+                "ETL",
+                "Kubernetes",
+                "Big data",
+                "DWH",
+                "Kafka",
+                "Terraform"
+            ],
+            "min_salary": 24000,
+            "max_salary": 28000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-iii-forecasting-tesco-technology-krakow-2",
+            "title": "Data Engineer III - Forecasting",
+            "company": "Tesco Technology",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Hadoop",
+                "Spark",
+                "PySpark",
+                "Python",
+                "pandas",
+                "Design Patterns"
+            ],
+            "min_salary": 22000,
+            "max_salary": 33000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/remote-senior-data-engineer-kingfisher-plc-",
+            "title": "Remote Senior Data Engineer",
+            "company": "Kingfisher plc.",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "AWS",
+                "SQL",
+                "Azure"
+            ],
+            "min_salary": 22000,
+            "max_salary": 25000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/remote-mid-data-engineer-kingfisher-plc-",
+            "title": "Remote Mid Data Engineer",
+            "company": "Kingfisher plc.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "AWS",
+                "Data modelling",
+                "Storage",
+                "Azure Cloud"
+            ],
+            "min_salary": 15000,
+            "max_salary": 19000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-chorus-one-remote",
+            "title": "Data Engineer",
+            "company": "Chorus One",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "AWS"
+            ],
+            "skills": [
+                "Blockchain",
+                "SQL",
+                "AWS",
+                "GCP",
+                "Azure",
+                "NoSQL",
+                "Airflow",
+                "PyTorch",
+                "TensorFlow",
+                "Python"
+            ],
+            "min_salary": 23389,
+            "max_salary": 33413
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-gog-warsaw-1",
+            "title": "Senior Data Engineer",
+            "company": "GOG",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Machine Learing",
+                "API",
+                "BigQuery",
+                "Data structures",
+                "Design Patterns",
+                "Docker",
+                "Kubernetes",
+                "Golang",
+                "Microservice architecture",
+                "Performance tuning",
+                "Web applications"
+            ],
+            "min_salary": 20000,
+            "max_salary": 30000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-with-python-objectivity-part-of-accenture-remote-2",
+            "title": "Senior Data Engineer with Python",
+            "company": "Objectivity - part of Accenture",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Databricks"
+            ],
+            "skills": [
+                "Python",
+                "PySpark",
+                "Databricks",
+                "Lakehouse",
+                "NoSQL",
+                "Data modelling",
+                "Azure",
+                "Snowflake",
+                "Microsoft Fabric",
+                "BS"
+            ],
+            "min_salary": 14000,
+            "max_salary": 20000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/big-data-engineer-reply-polska-katowice",
+            "title": "Big Data Engineer",
+            "company": "Reply Polska",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Spark"
+            ],
+            "skills": [
+                "Spark",
+                "Kubernetes",
+                "Docker",
+                "Microservices",
+                "Terraform",
+                "DevOps",
+                "GitLab CI",
+                "Jenkins",
+                "Integration test",
+                "Cloud computing",
+                "AWS",
+                "GCP",
+                "Azure",
+                "Databricks",
+                "Snowflake",
+                "Clean Code",
+                "Java",
+                "SQL",
+                "Scala"
+            ],
+            "min_salary": 9000,
+            "max_salary": 16000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/senior-data-engineer-adaptiq-remote",
+            "title": "Senior Data Engineer",
+            "company": "Adaptiq",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Spark",
+                "Kafka",
+                "Airflow",
+                "Scala",
+                "Java",
+                "Go",
+                "Databricks",
+                "Snowflake",
+                "ETL/ELT processes"
+            ],
+            "min_salary": 26062,
+            "max_salary": 28067
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-fizetesi-pont-kft--budapest",
+            "title": "Data Engineer",
+            "company": "Fizet\u00e9si Pont Kft.",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Python",
+                "Data pipelines",
+                "Azure Data",
+                "Azure Data Lake",
+                "Azure Data Factory",
+                "Blob Storage",
+                "ETL",
+                "Quality control",
+                "Azure"
+            ],
+            "min_salary": 14439,
+            "max_salary": 17771
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-engineer-photon-energy-group-remote-1",
+            "title": "Data Engineer",
+            "company": "Photon Energy Group",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "Kafka",
+                "Data pipelines",
+                "Data engineering",
+                "Python",
+                "AWS",
+                "NiFi",
+                "Argo",
+                "API",
+                "Snowflake",
+                "Spark",
+                "Analysis",
+                "Azure Data Factory",
+                "Airflow",
+                "Azure",
+                "BigQuery",
+                "Snowpark"
+            ],
+            "min_salary": 16000,
+            "max_salary": 24000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-ops-engineer-roche-warszawa",
+            "title": "Data Ops Engineer",
+            "company": "Roche",
+            "seniority": "Mid",
+            "categories:": [
+                "Data",
+                "Python"
+            ],
+            "skills": [
+                "AWS Cloud",
+                "AWS Lambda",
+                "AWS S3",
+                "Snowflake",
+                "Data engineering",
+                "SQL",
+                "ETL",
+                "Data modeling",
+                "GitLab",
+                "Bitbucket",
+                "DevOps",
+                "Python"
+            ],
+            "min_salary": 12500,
+            "max_salary": 18000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/inzynier-danych-centralny-osrodek-informatyki-remote",
+            "title": "In\u017cynier Danych",
+            "company": "Centralny O\u015brodek Informatyki",
+            "seniority": "Senior",
+            "categories:": [
+                "Data",
+                "SQL"
+            ],
+            "skills": [
+                "SQL",
+                "NoSQL",
+                "Data warehouse",
+                "Databricks",
+                "Snowflake",
+                "Redshift",
+                "ETL",
+                "PySpark",
+                "Hadoop",
+                "AWS",
+                "GCP",
+                "Apache Airflow",
+                "Bash",
+                "REST API",
+                "Python",
+                "Azure",
+                "Docker",
+                "Big Data"
+            ],
+            "min_salary": 14000,
+            "max_salary": 28000
+        },
+        {
+            "url": "https://nofluffjobs.com/job/data-architect-objectivity-part-of-accenture-remote",
+            "title": "Data Architect",
+            "company": "Objectivity - part of Accenture",
+            "seniority": "Senior",
+            "categories:": [
+                "AI",
+                "Azure"
+            ],
+            "skills": [
+                "Azure Data Solutions",
+                "Azure Services",
+                "Data Solutions",
+                "Business Inteligence",
+                "Analytics Solutions",
+                "Data Warehouses",
+                "Data Integration",
+                "Machine Learning",
+                "Azure",
+                "snowflake",
+                "Spark",
+                "AI",
+                "Data warehouses",
+                "Big Data",
+                "SQL",
+                "Python",
+                "Data warehouse",
+                "Data modelling",
+                "Azure Data",
+                "GCP",
+                "Databricks",
+                "Kafka",
+                "Google Cloud"
+            ],
+            "min_salary": 18500,
+            "max_salary": 25000
+        }
+    ]
+}
