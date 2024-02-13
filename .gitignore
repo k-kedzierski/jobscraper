@@ -243,3 +243,8 @@ data/raw*
 
 driver/*
 !driver/.gitkeep
+
+docs/plots/*
+!docs/plots/.gitkeep
+
+*.pdf

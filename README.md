@@ -29,3 +29,19 @@ Available options:
 | `--site [SITE], -s [SITE]` | Site implementation to use for scraping (class name). Check [here](/jobscraper/site/) for available implementations. Example: "NoFluffJobs" |
 | `--output [OUTPUT], --out [OUTPUT], -o [OUTPUT]`, *optional* | Destination path to save results. Default: './data' |
 | `--data [DATA], -d [DATA]`, *optional* | Previously scraped offers to get diff. Optional |
+
+# Report
+
+Requires Pandoc to build the report.
+
+Install notebook dependencies:
+
+```sh
+poetry install --no-root --group notebooks
+```
+
+Run the `docs/analysis.ipynb` notebook and build the report:
+
+```sh
+pandoc docs/report.md -o report.pdf
+```

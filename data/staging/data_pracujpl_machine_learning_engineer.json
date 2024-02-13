@@ -1,0 +1,1219 @@
+{
+    "site": "pracujpl",
+    "keyword": "machine learning engineer",
+    "timestamp": "2024-02-12 22:16:52",
+    "uuid": "0bfcafc2-d29d-498f-8bf2-fbff459a0010",
+    "data": [
+        {
+            "url": "https://www.pracuj.pl/praca/lead-data-engineer-gdansk,oferta,1003091241?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Lead Data Engineer",
+            "company": "NTIATIVE sp. z o.o.",
+            "seniority": "manager / supervisor, team manager",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "SQL",
+                "Python"
+            ],
+            "salary": "20 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-scientist-warszawa,oferta,1003091262?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Scientist",
+            "company": "WINGED IT SP Z O O",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "SQL",
+                "PySpark",
+                "Hadoop",
+                "Spark",
+                "AWS"
+            ],
+            "salary": "33 000\u201337 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/snowflake-engineer-data-engineer-warszawa,oferta,1003113669?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Snowflake Engineer - Data Engineer",
+            "company": "Novaris Sp. z o.o.",
+            "seniority": "specjalista (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Snowflake Data Cloud",
+                "AWS",
+                "Microsoft Azure",
+                "Oracle",
+                "PostgreSQL"
+            ],
+            "salary": "16 000\u201326 000 z\u0142 netto (+ VAT) / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/software-developer-machine-learning-z-j-niemieckim-wroclaw-jaworska-13,oferta,1003139537?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Software Developer - Machine Learning - z j. niemieckim",
+            "company": "dmTECH Polska",
+            "seniority": "specjalista (mid / regular), starszy specjalista (senior)",
+            "categories:": "AI/ML, Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Java",
+                "SQL",
+                "Spring Boot",
+                "GCP",
+                "CI/CD"
+            ],
+            "salary": "10 800\u201321 000 z\u0142 brutto / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-scientist-z-j-niemieckim-wroclaw-jaworska-13,oferta,1003139522?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Scientist z j. niemieckim",
+            "company": "dmTECH Polska",
+            "seniority": "specjalista (mid / regular), starszy specjalista (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Java",
+                "spark",
+                "hive",
+                "airflow",
+                "HBase",
+                "GCP",
+                "Kafka",
+                "Snowflake Data Cloud",
+                "NoSQL",
+                "CI/CD"
+            ],
+            "salary": "10 800\u201321 000 z\u0142 brutto / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-snowflake-warszawa,oferta,1003108352?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer (Snowflake)",
+            "company": "7N Sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "AWS",
+                "Snowflake Data Cloud",
+                "Python",
+                "SQL",
+                "ETL"
+            ],
+            "salary": "26 880\u201330 240 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-z-j-niemieckim-wroclaw-jaworska-13,oferta,1003139475?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer z j. niemieckim",
+            "company": "dmTECH Polska",
+            "seniority": "specjalista (mid / regular), starszy specjalista (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Big Data",
+                "Spark",
+                "Hive",
+                "Hbase",
+                "Airflow",
+                "Kafka",
+                "GCP",
+                "Python",
+                "Java",
+                "CI/CD"
+            ],
+            "salary": "10 800\u201321 000 z\u0142 brutto / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-gdansk,oferta,1003105477?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "Cyclad",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science, Business analytics",
+            "skills": [
+                "Scala",
+                "Apache Spark",
+                "Java",
+                "SQL",
+                "Angular",
+                "Teradata",
+                "Microsoft SQL Server",
+                "T-SQL",
+                "Docker",
+                "Kubernetes"
+            ],
+            "salary": "80,00\u201319 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/python-developer-for-data-science-team-warszawa-marcina-kasprzaka-4,oferta,1003145676?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Python Developer for Data Science Team",
+            "company": "STEPWISE SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+            "seniority": "senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Automated Testing",
+                "Framework Development",
+                "Data Structures",
+                "Performance Optimization",
+                "Google Cloud Platform",
+                "Data Processing"
+            ],
+            "salary": "20 000\u201327 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-cloud-engineer-mlops-warszawa,oferta,1003089811?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Cloud Engineer / MLOps",
+            "company": "ROBOTEC.AI sp. z o.o.",
+            "seniority": "senior specialist (senior)",
+            "categories:": "Security",
+            "skills": [
+                "Python",
+                "MLflow",
+                "Kubeflow",
+                "Amazon SageMaker",
+                "AWS",
+                "Docker",
+                "TensorFlow",
+                "PyTorch",
+                "Numpy",
+                "Pandas",
+                "Matplotlib"
+            ],
+            "salary": "23 000\u201330 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/machine-learning-engineer-generative-ai-warszawa-koszykowa-63,oferta,1003089808?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Machine Learning Engineer (Generative AI)",
+            "company": "ROBOTEC.AI sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "AI/ML",
+            "skills": [
+                "Python",
+                "PyTorch",
+                "Tensorflow",
+                "Numpy",
+                "Pandas",
+                "Matplotlib",
+                "AWS",
+                "Unity3D",
+                "Unreal Engine",
+                "C++",
+                "Go"
+            ],
+            "salary": "23 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/lead-data-engineer-warszawa-plac-stanislawa-malachowskiego-2,oferta,1003138308?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Lead Data Engineer",
+            "company": "Ework Group",
+            "seniority": "manager / supervisor",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "TypeScript",
+                "Go",
+                "Java",
+                "Scala",
+                "C++",
+                "C#",
+                "AWS",
+                "Apache Spark",
+                "Docker",
+                "Python"
+            ],
+            "salary": "28 800\u201335 900 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-warszawa-pulawska-2,oferta,1003144726?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "SQUARE ONE RESOURCES sp. z o.o.",
+            "seniority": "specjalista (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "AWS",
+                "Google Cloud Platform",
+                "Microsoft Azure",
+                "PySpark"
+            ],
+            "salary": "130,00\u2013170,00 z\u0142 netto (+ VAT) / godz."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-krakow-stanislawa-zolkiewskiego-17b,oferta,1003128729?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "Medius Poland Sp. z o.o",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "AI/ML, Backend, Big Data / Data Science",
+            "skills": [
+                "SQL",
+                "Python",
+                "PySpark",
+                "Spark",
+                "Databricks"
+            ],
+            "salary": "15 000\u201321 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-scientist-warszawa,oferta,1003131901?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Scientist",
+            "company": "Scalo Sp. z o.o.",
+            "seniority": "specjalista (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Linux",
+                "Java",
+                "Scala"
+            ],
+            "salary": "110,00\u2013130,00 z\u0142 netto (+ VAT) / godz."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/ai-engineer-intern-poznan,oferta,1003100139?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "AI Engineer Intern",
+            "company": "VML Commerce & Technology",
+            "seniority": "trainee",
+            "categories:": "AI/ML",
+            "skills": [
+                "Python",
+                "Scikit",
+                "Pandas",
+                "Jenkins",
+                "Docker",
+                "GitHub",
+                "Jira"
+            ],
+            "salary": "33,00\u201336,00 z\u0142 gross / hr."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa-aleje-jerozolimskie-125,oferta,1003143357?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Engineer",
+            "company": "ITFS sp. z o.o.",
+            "seniority": "specjalista (mid / regular)",
+            "categories:": null,
+            "skills": [
+                "SQL",
+                "Python",
+                "ETL",
+                "Hive",
+                "Spark",
+                "Apache Airflow"
+            ],
+            "salary": "130,00\u2013170,00 z\u0142 netto (+ VAT) / godz."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/standard-senior-ai-developer-with-java-python-gdansk-aleja-grunwaldzka-415,oferta,1003103161?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Standard/Senior AI Developer with Java & Python",
+            "company": "Lufthansa Systems",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "AI/ML, Backend",
+            "skills": [
+                "Java",
+                "Git",
+                "CI/CD",
+                "REST",
+                "Python",
+                "FastAPI",
+                "Spring",
+                "Maven",
+                "Poetry",
+                "Kafka",
+                "Machine Learning",
+                "Numpy",
+                "Pandas",
+                "SkicitLearn",
+                "LLM",
+                "Azure Services"
+            ],
+            "salary": "10 000\u201321 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-warszawa-krakowskie-przedmiescie-13,oferta,1003099718?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "WEALTHARC sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "SQL",
+                "Python",
+                "R",
+                "Git",
+                "Microsoft Azure",
+                "Microsoft Power BI",
+                "Microsoft Excel"
+            ],
+            "salary": "10 000\u201313 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-warszawa,oferta,1003130665?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "Scalo Sp. z o.o.",
+            "seniority": "specjalista (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "SQL",
+                "Java",
+                "OpenShift",
+                "Kubernetes"
+            ],
+            "salary": "110,00\u2013140,00 z\u0142 netto (+ VAT) / godz."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-scientist-warszawa,oferta,1003087893?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Scientist",
+            "company": "Be in IT",
+            "seniority": "starszy specjalista (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "SQL",
+                "AWS",
+                "TensorFlow"
+            ],
+            "salary": "140,00\u2013180,00 z\u0142 netto (+ VAT) / godz."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-azure-warszawa-encyklopedyczna-2a,oferta,1003087167?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer (Azure)",
+            "company": "JellyTech",
+            "seniority": "specjalista (mid / regular), starszy specjalista (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Apache Spark",
+                "SQL",
+                "Microsoft Azure"
+            ],
+            "salary": "18 000\u201323 500 z\u0142 netto (+ VAT) / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-with-aws-warszawa-encyklopedyczna-2a,oferta,1003087149?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer (with AWS)",
+            "company": "JellyTech",
+            "seniority": "starszy specjalista (senior), ekspert",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Apache Airflow",
+                "Kafka",
+                "AWS",
+                "ETL",
+                "Python",
+                "SQL",
+                "noSQL",
+                "DWH"
+            ],
+            "salary": "18 000\u201321 000 z\u0142 netto (+ VAT) / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/staff-software-engineer-warszawa-koszykowa-61,oferta,1003114799?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Staff Software Engineer",
+            "company": "Affirm",
+            "seniority": "manager / supervisor, team manager",
+            "categories:": "Backend, Project Management",
+            "skills": [
+                "AWS",
+                "Microsoft Azure",
+                "Google Cloud Platform",
+                "Python",
+                "Go",
+                "Java",
+                "Kotlin",
+                "Scala"
+            ],
+            "salary": "25 792\u201332 233 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-azure-mlops-engineer-warszawa,oferta,1003116812?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Azure MLOps Engineer",
+            "company": "Be in IT",
+            "seniority": "starszy specjalista (senior)",
+            "categories:": "DevOps",
+            "skills": [
+                "Azure DevOps",
+                "Python",
+                "MS SQL"
+            ],
+            "salary": "200,00\u2013230,00 z\u0142 netto (+ VAT) / godz."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-machine-learning-engineer-generative-ai-warszawa-koszykowa-63,oferta,1003097935?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Machine Learning Engineer (Generative AI)",
+            "company": "ROBOTEC.AI sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "AI/ML",
+            "skills": [
+                "Python",
+                "PyTorch",
+                "Tensorflow",
+                "Numpy",
+                "Pandas",
+                "Matplotlib",
+                "AWS",
+                "Unity3D",
+                "Unreal Engine",
+                "C++",
+                "Go"
+            ],
+            "salary": "23 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-engineer-fp-a-warszawa-zelazna-51-53,oferta,1003137598?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Engineer - FP&A",
+            "company": "Allegro",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "SQL",
+                "Google Cloud Platform",
+                "Python",
+                "Tableau",
+                "Microsoft Power BI",
+                "Apache Airflow",
+                "Apache Spark"
+            ],
+            "salary": "12 300\u201323 200 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/java-developer-gliwice-kaczyniec-9,oferta,1003137437?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Java Developer",
+            "company": "CO.BRICK SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "Backend",
+            "skills": [
+                "Java",
+                "Google Cloud Platform",
+                "Docker",
+                "Kubernetes",
+                "TensorFlow",
+                "Python",
+                "Git"
+            ],
+            "salary": "17 500 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-spark-warszawa-pulawska-39,oferta,1003103864?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer (Spark)",
+            "company": "GETINDATA POLAND sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "SQL",
+                "Apache Spark",
+                "PySpark",
+                "Databricks",
+                "Git"
+            ],
+            "salary": "110,00\u2013160,00 z\u0142 net (+ VAT) / hr."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-gdansk-aleja-grunwaldzka-472b,oferta,1003103737?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "Acxiom Global Service Center Polska sp. z o. o",
+            "seniority": "specialist (mid / regular)",
+            "categories:": null,
+            "skills": [
+                "SQL",
+                "Python"
+            ],
+            "salary": "10 500\u201317 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-and-ai-engineer-nlp-warszawa-pulawska-39,oferta,1003085350?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data and AI Engineer (NLP)",
+            "company": "GETINDATA POLAND sp. z o.o.",
+            "seniority": "senior specialist (senior)",
+            "categories:": "AI/ML",
+            "skills": [
+                "Databricks",
+                "BigQuery",
+                "Apache Airflow",
+                "Python",
+                "Elasticsearch",
+                "Langchain",
+                "LlamaIndex"
+            ],
+            "salary": "150,00\u2013200,00 z\u0142 net (+ VAT) / hr."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/cloud-engineer-infrastructure-warszawa-grzybowska-87,oferta,1003110739?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Cloud Engineer (Infrastructure)",
+            "company": "ElitMind Sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science, DevOps",
+            "skills": [
+                "Azure Cloud",
+                "Azure DevOps",
+                "DevOps",
+                "GitHub Actions",
+                "ARM",
+                "Terraform",
+                "IaC",
+                "Kubernetes",
+                "OpenShift",
+                "Docker",
+                "AWS",
+                "GCP",
+                "Bicep",
+                "SQL Server",
+                "CI/CD",
+                "Machine Learning"
+            ],
+            "salary": "15 960\u201324 024 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-software-engineer-machine-learning-mlops-krakow-przy-rondzie-4,oferta,1003103487?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Software Engineer (Machine Learning - MLOps)",
+            "company": "Tesco Technology",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "AI/ML",
+            "skills": [
+                "Python",
+                "Git",
+                "Apache Spark",
+                "Machine Learning",
+                "Splunk",
+                "Azure",
+                "ML Ops"
+            ],
+            "salary": "20 000\u201330 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-big-data-developer-warszawa-pulawska-180,oferta,1003103168?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Big Data Developer",
+            "company": "The Stepstone Group Polska sp. z o.o.",
+            "seniority": "senior specialist (senior)",
+            "categories:": null,
+            "skills": [
+                "Apache Spark",
+                "Terraform",
+                "Kafka",
+                "Kafka Streams",
+                "Kafka Connect",
+                "Avro",
+                "GraphQL",
+                "Event Sourcing",
+                "Event Driven Architecture",
+                "API",
+                "Scala",
+                "Java",
+                "Python",
+                "AWS"
+            ],
+            "salary": "17 000\u201325 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-back-end-developer-python-ml-warszawa-krucza-50,oferta,1003103033?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Back-End Developer (Python, ML)",
+            "company": "KITRUM",
+            "seniority": "senior specialist (senior)",
+            "categories:": "Backend",
+            "skills": [
+                "Go",
+                "Python",
+                "Ruby",
+                "Scala",
+                "Terraform",
+                "Jenkins",
+                "Bash",
+                "AWS",
+                "Apache Spark"
+            ],
+            "salary": "22 000\u201325 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa-jana-nowaka-jezioranskiego-53a,oferta,1003112693?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Engineer",
+            "company": "CLOUDFIDE SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+            "seniority": "senior specialist (senior), expert",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "SQL",
+                "Microsoft SQL Server",
+                "PostgreSQL",
+                "Python",
+                "Microsoft Azure",
+                "CI/CD",
+                "Data Lake",
+                "DWH",
+                "ETL/ELT",
+                "Azure DevOps",
+                "Apache Spark",
+                "Databricks",
+                "Apache Airflow"
+            ],
+            "salary": "25 000\u201332 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-warszawa-sienna-39,oferta,1003118104?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "Directio Sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Java",
+                "Hadoop",
+                "Apache Spark",
+                "PostgreSQL",
+                ".NET"
+            ],
+            "salary": "16 500\u201320 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/mid-big-data-engineer-warszawa,oferta,1003090042?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Mid Big Data Engineer",
+            "company": "7N Sp. z o.o.",
+            "seniority": "specjalista (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Hadoop",
+                "Python",
+                "Scala",
+                "Java",
+                "SQL",
+                "Maven",
+                "Jira",
+                "Confluence",
+                "Kafka",
+                "Ansible"
+            ],
+            "salary": "130,00\u2013150,00 z\u0142 netto (+ VAT) / godz."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-big-data-engineer-warszawa,oferta,1003090045?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Big Data Engineer",
+            "company": "7N Sp. z o.o.",
+            "seniority": "starszy specjalista (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Hadoop",
+                "Python",
+                "Scala",
+                "Java",
+                "SQL",
+                "Maven",
+                "Jira",
+                "Confluence",
+                "Kafka",
+                "Ansible"
+            ],
+            "salary": "160,00\u2013190,00 z\u0142 netto (+ VAT) / godz."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-scientist-to-support-insights-data-analytics-gdynia,oferta,1003138371?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Scientist to support Insights Data Analytics",
+            "company": "Ework Group",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Microsoft Power BI",
+                "Microsoft SQL Server"
+            ],
+            "salary": "24 360\u201328 560 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/machine-learning-developer-gdansk,oferta,1003127963?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Machine Learning Developer",
+            "company": "MindPal",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "AI/ML",
+            "skills": [
+                "Machine Learning",
+                "Processing data",
+                "Testing"
+            ],
+            "salary": "13 000\u201324 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-snowflake-gdansk,oferta,1003127952?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer (Snowflake)",
+            "company": "MindPal",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Snowflake Data Cloud",
+                "SQL",
+                "Python",
+                "ETL tools",
+                "Data Integration"
+            ],
+            "salary": "13 000\u201323 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-gliwice,oferta,1003127855?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "MindPal",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "SQL",
+                "Hadoop",
+                "Spark",
+                "Scala",
+                "Python",
+                "AWS"
+            ],
+            "salary": "13 000\u201320 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-engineer-machine-learning-research-poznan-wierzbiecice-1b,oferta,1003140025?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Engineer - Machine Learning Research",
+            "company": "Allegro",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "AI/ML, Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Looker",
+                "Tableau",
+                "Microsoft Power BI",
+                "SQL",
+                "Google Cloud Platform",
+                "Apache Airflow",
+                "MongoDB"
+            ],
+            "salary": "12 300\u201323 200 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-gdansk,oferta,1003140209?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "COLLECTIVEHR NEUBAUER ZALEWSKI SP\u00d3\u0141KA JAWNA",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "PySpark",
+                "Databricks",
+                "Azure Synapse",
+                "Apache Spark",
+                "NoSQL",
+                "relational DB",
+                "cloud",
+                "Azure",
+                "GCP",
+                "Snowflake Data Cloud",
+                "Microsoft Fabric"
+            ],
+            "salary": "130,00\u2013180,00 z\u0142 net (+ VAT) / hr."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-delivery-experience-poznan-wierzbiecice-1b,oferta,1003139558?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer (Delivery Experience)",
+            "company": "Allegro",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "SQL",
+                "BigQuery",
+                "Spark",
+                "Google Cloud Platform"
+            ],
+            "salary": "12 300\u201317 600 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-gdansk,oferta,1003086575?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "INSIGHT (Division of nexergroup.com)",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "SQL"
+            ],
+            "salary": "16 000\u201325 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-talend-gdansk-azymutalna-9,oferta,1003124858?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer (Talend)",
+            "company": "ONWELO Sp. z o.o.",
+            "seniority": "specjalista (mid / regular), m\u0142odszy specjalista (junior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "ETL",
+                "Talend",
+                "Python",
+                "SQL"
+            ],
+            "salary": "8 000\u201311 000 z\u0142 brutto / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-nifi-gdansk-azymutalna-9,oferta,1003124852?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer (NiFi)",
+            "company": "ONWELO Sp. z o.o.",
+            "seniority": "specjalista (mid / regular), starszy specjalista (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "ETL",
+                "NiFi",
+                "Python",
+                "SQL"
+            ],
+            "salary": "11 000\u201314 000 z\u0142 brutto / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-big-data-engineer-scala-python-data-ai-poznan-wierzbiecice-1b,oferta,1003096044?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Big Data Engineer (Scala/Python) - Data&AI",
+            "company": "Allegro",
+            "seniority": "senior specialist (senior)",
+            "categories:": "AI/ML, Big Data / Data Science",
+            "skills": [
+                "Scala",
+                "Python",
+                "Java",
+                "Azure",
+                "AWS"
+            ],
+            "salary": "16 100\u201323 200 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/junior-machine-learning-engineer-warszawa-pulawska-180,oferta,1003111917?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Junior Machine Learning Engineer",
+            "company": "The Stepstone Group Polska sp. z o.o.",
+            "seniority": "junior specialist (junior)",
+            "categories:": null,
+            "skills": [],
+            "salary": "9 500\u201315 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/junior-data-scientist-gdansk-strzelecka-7b,oferta,1003095252?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Junior Data Scientist",
+            "company": "JohnnyBros Sp. z o.o.",
+            "seniority": "m\u0142odszy specjalista (junior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Pandas",
+                "Numpy",
+                "SQL",
+                "TensorFlow",
+                "Apache Spark"
+            ],
+            "salary": "6 500\u20139 000 z\u0142 brutto / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-sprinklr-warszawa-encyklopedyczna-2a,oferta,1003116055?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer (Sprinklr)",
+            "company": "JellyTech",
+            "seniority": "specjalista (mid / regular), starszy specjalista (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Sprinklr",
+                "ETL",
+                "DWH",
+                "Data Lake",
+                "Databricks",
+                "AWS",
+                "Github",
+                "SQL",
+                "Python",
+                "Spark"
+            ],
+            "salary": "14 000\u201322 000 z\u0142 netto (+ VAT) / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-machine-learning-engineer-warszawa-mokotowska-49,oferta,1003093874?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Machine Learning Engineer",
+            "company": "Harvey Nash Technology Sp. z o.o.",
+            "seniority": "senior specialist (senior)",
+            "categories:": "AI/ML",
+            "skills": [
+                "Python",
+                "C++",
+                "Machine Learning",
+                "Keras",
+                "TensorFlor",
+                "Digital signal processing",
+                "DSP",
+                "C",
+                "scikit-learn",
+                "PyTorch",
+                "SciPy"
+            ],
+            "salary": "22 000\u201330 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-engineer-scientist-warszawa,oferta,1003142543?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Engineer / Scientist",
+            "company": "DevsData LLC",
+            "seniority": "senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "SQL",
+                "Python",
+                "R",
+                "PyTorch",
+                "TensorFlow",
+                "Scikit-learn",
+                "AWS",
+                "Elasticsearch"
+            ],
+            "salary": "21 820\u201330 300 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/machine-learning-engineer-wroclaw-wagonowa-2d,oferta,1003125604?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Machine Learning Engineer",
+            "company": "Zone IT Sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "AI/ML",
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "C",
+                "C++",
+                "Java",
+                "Oracle"
+            ],
+            "salary": "16 000\u201325 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-scientist-wroclaw-wagonowa-2d,oferta,1003125600?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Scientist",
+            "company": "Zone IT Sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "AI/ML, Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Machine Learning",
+                "Angular"
+            ],
+            "salary": "17 000\u201328 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-wroclaw-wagonowa-2d,oferta,1003125593?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "Zone IT Sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "TypeScript",
+                "Python",
+                "Angular",
+                "Java"
+            ],
+            "salary": "9 000\u201316 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-engineer-snowflake-warszawa-pulawska-39,oferta,1003125088?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Engineer (Snowflake)",
+            "company": "GETINDATA POLAND sp. z o.o.",
+            "seniority": "senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "SQL",
+                "Snowflake Data Cloud",
+                "DBT",
+                "Airflow"
+            ],
+            "salary": "160,00\u2013200,00 z\u0142 net (+ VAT) / hr."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-engineer-gcp-warszawa-pulawska-39,oferta,1003125090?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Engineer (GCP)",
+            "company": "GETINDATA POLAND sp. z o.o.",
+            "seniority": "senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "SQL",
+                "Google Cloud Platform",
+                "BigQuery",
+                "Airflow",
+                "VCS"
+            ],
+            "salary": "160,00\u2013200,00 z\u0142 net (+ VAT) / hr."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-engineer-smart-city-iot-lodz-aleja-marsz-jozefa-pilsudskiego-24,oferta,1003092764?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Engineer - Smart City | IoT",
+            "company": "INCUBLY SP\u00d3\u0141KA Z OGRANICZON\u0104 ODPOWIEDZIALNO\u015aCI\u0104",
+            "seniority": "senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "AWS",
+                "Python",
+                "Java",
+                "Flink",
+                "Firehose",
+                "BitBucket",
+                "GitHub",
+                "GitLab",
+                "Kafka",
+                "Kinesis",
+                "PostgreSQL",
+                "MySQL",
+                "S3/Athena",
+                "Redshift",
+                "Snowflake Data Cloud",
+                "Docker",
+                "Kubernetes",
+                "Argo",
+                "Glue",
+                "StreamSets",
+                "Apache Airflow"
+            ],
+            "salary": "20 000\u201325 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-scientist-poznan-krysiewicza-2,oferta,1003124972?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Scientist",
+            "company": "Analyx Sp. z o.o. sp.k.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "R",
+                "MS Excel"
+            ],
+            "salary": "7 000\u201310 500 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/senior-data-engineer-warszawa,oferta,1003124964?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Senior Data Engineer",
+            "company": "EndySoft",
+            "seniority": "senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Snowflake Data Cloud",
+                "SQL",
+                "Google Cloud Platform",
+                "Git",
+                "Jira",
+                "Confluence",
+                "AWS",
+                "Java",
+                "Tableau",
+                "Microsoft SSIS"
+            ],
+            "salary": "17 000\u201322 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-poznan-naramowicka-76,oferta,1003092522?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer",
+            "company": "Photon Energy Group",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Kafka",
+                "Data Engineering",
+                "Data pipelines",
+                "Data analysis",
+                "Argo",
+                "AWS",
+                "NiFi",
+                "API",
+                "Spark",
+                "Azure DataFactory",
+                "Python",
+                "Snowflake",
+                "Airflow",
+                "Azure",
+                "BigQuery",
+                "Snowpark"
+            ],
+            "salary": "16 000\u201324 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/mlops-engineer-aws-warszawa-pulawska-39,oferta,1003092235?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "MLOps Engineer (AWS)",
+            "company": "GETINDATA POLAND sp. z o.o.",
+            "seniority": "specialist (mid / regular)",
+            "categories:": "AI/ML",
+            "skills": [
+                "Python",
+                "SQL",
+                "Databricks",
+                "AWS",
+                "Git",
+                "Scala"
+            ],
+            "salary": "160,00\u2013200,00 z\u0142 net (+ VAT) / hr."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-with-snowflake-gliwice,oferta,1003107899?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer with Snowflake",
+            "company": "Exlabs Software Ltd",
+            "seniority": "specjalista (mid / regular)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "Snowflake Data Cloud",
+                "Java",
+                "JavaScript",
+                "TypeSctipt",
+                "C#"
+            ],
+            "salary": "10 000\u201315 000 z\u0142 netto (+ VAT) / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-with-python-warszawa-chlodna-51,oferta,1003138690?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer with Python",
+            "company": "AXA IT Solutions",
+            "seniority": "specialist (mid / regular), junior specialist (junior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Databricks",
+                "Azure Event Hub",
+                "Azure Pipelines",
+                "Azure Data Factory",
+                "Python",
+                "Spark 3",
+                "Scala"
+            ],
+            "salary": "9 500\u201318 000 z\u0142 gross / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/ai-ml-engineer-gdansk,oferta,1003132554?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "AI / ML Engineer",
+            "company": "MindPal",
+            "seniority": "junior specialist (junior)",
+            "categories:": "AI/ML",
+            "skills": [
+                "Python",
+                "R",
+                "Java",
+                "C++"
+            ],
+            "salary": "7 000\u201310 000 z\u0142 net (+ VAT) / mth."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-scientist-engineer-poznan,oferta,1003113780?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Scientist Engineer",
+            "company": "JellyTech",
+            "seniority": "specjalista (mid / regular), starszy specjalista (senior)",
+            "categories:": "AI/ML, Big Data / Data Science",
+            "skills": [
+                "Python",
+                "R",
+                "SQL",
+                "PySpark"
+            ],
+            "salary": "19 600\u201333 600 z\u0142 netto (+ VAT) / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/cybersecurity-monitoring-engineer-katowice,oferta,1003140055?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Cybersecurity Monitoring Engineer",
+            "company": "ING Bank \u015al\u0105ski S.A.",
+            "seniority": "specjalista (mid / regular), starszy specjalista (senior)",
+            "categories:": "Security",
+            "skills": [
+                "Docker",
+                "GCP",
+                "PostgreSQL",
+                "Redis",
+                "Cassandra",
+                "Azure DevOps"
+            ],
+            "salary": "14 000\u201323 000 z\u0142 brutto / mies."
+        },
+        {
+            "url": "https://www.pracuj.pl/praca/data-engineer-product-catalogue-ml-poznan-wierzbiecice-1b,oferta,1003133084?s=5bcbc5e2&searchId=MTcwNzc3MjQ2MTMzNS42MzA2",
+            "title": "Data Engineer - Product Catalogue ML",
+            "company": "Allegro",
+            "seniority": "specialist (mid / regular), senior specialist (senior)",
+            "categories:": "Big Data / Data Science",
+            "skills": [
+                "Python",
+                "SQL",
+                "Google Cloud Platform",
+                "BigQuery",
+                "Spark"
+            ],
+            "salary": "12 300\u201323 200 z\u0142 gross / mth."
+        }
+    ]
+}
