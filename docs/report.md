@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Engineering - a look at the Polish job market in 2024"
 author: Adrian Kastrau, Kacper Kędzierski
-date: "February 14, 2024"
+date: "February 12, 2024"
 output:
   html_document:
     number_sections: true
@@ -21,7 +21,7 @@ Moreover, the analysis has been performed separately for contract of employment 
 
 # Data
 
-The data was collected by scraping the No Fluff Jobs website. We have collected the job postings for two different keywords: **"machine learning engineer"** and **"data engineer"**. The data was collected on January 12, 2024.
+The data was collected by scraping the No Fluff Jobs website. We have collected the job postings for two different keywords: **"machine learning engineer"** and **"data engineer"**. The data was collected on February 12, 2024.
 
 We have also collected the job postings for the "data engineer" position, as we believe that the skills required for this position are often overlapping with the skills required for a machine learning engineer. Furthermore, the definition of "machine learning engineer" is also conventional.
 
@@ -47,7 +47,7 @@ On the other hand, we tried to separate Data Science from Machine Learning Engin
 
 Many of the job postings have been carefully reviewed and scanned manually to ensure that they match the criteria.
 
-Final filtered dataset consisted of 75 job postings. Both unfiltered and filtered datasets are available in the source repository.
+Final filtered dataset consisted of 75 job postings. Both unfiltered and filtered datasets are available in the source repository as JSON files. In addition to the salary ranges, the data also includes the URL to job listing, job title, company name, categories, and listed skills.
 
 \pagebreak
 
