@@ -222,3 +222,11 @@ The analysis of the job postings for machine learning engineers in Poland in 202
 
 - The median salary for mid-level positions is between **13 000 and 17 685 PLN** for contract of employment, and between **15 980 and 24 012 PLN** for B2B job postings.
 - The median salary for senior-level positions is between **18 250 and 28 000 PLN** for contract of employment, and between **25 200 and 30 240 PLN** for B2B job postings.
+
+We believe that the analysis provides a good overview of what the job market for machine learning engineers in Poland has to offer. The analysis has shown that the salaries for machine learning engineers in Poland in 2024 are competitive, and that there are many job opportunities for machine learning engineers in Poland.
+
+We would like to thank No Fluff Jobs for providing the data for this analysis.
+
+# Appendix
+
+Source code for the analysis and the data used for the analysis is available in the source repository [here](https://github.com/k-kedzierski/jobscraper).
